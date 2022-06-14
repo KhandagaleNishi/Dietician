@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="23" time="1.509">
+    <testcase classname="Browse button on Create Plan page" name="Validating the Browse button visibility" time="0.628">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a button with name browse "Browse" on the page.........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Browse button on Create Plan page" name="Validating the Browse button tool tip option" time="0.026">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a tool tip "PDF files only" for the Browse button......passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Browse button on Create Plan page" name="Validating the Browse button operation" time="0.016">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the Browse button and selects a document...................passed
+Then User should see the selected document in the field next to the Browse button on the page.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Generate Menu Button on Create Plan page" name="Validating the Generate Menu button visibility" time="0.015">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a button with text "GENERATE MENU"  at the bottom of the page.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Generate Menu Button on Create Plan page" name="Validating the Generate Menu button operation" time="0.013">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the GENERATE MENU button...................................passed
+Then New Diet plan should be generated with the latest confirmed Health conditions.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Generate Menu Button on Create Plan page" name="Validating the Generate Menu button operation 2" time="0.017">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the GENERATE MENU button...................................passed
+Then User should land on "View Recent Diets" page...........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Heading for Create plan page" name="Validating the heading" time="0.011">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User sees the heading "Confirm Health Conditions and Generate a new Diet Plan" on the page.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 1 to confirm Health Conditionson Create Plan page" name="Validating option1 menu visibility" time="0.013">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see option1 menu to update the health conditions...........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 1 to confirm Health Conditionson Create Plan page" name="Validating visibility of Confirm button on option 1 menu" time="0.003">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a button with text " CONFIRM" in option1 menu..........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 1 to confirm Health Conditionson Create Plan page" name="Validating the option1 menu interaction" time="0.008">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User can update the health conditions in option1 menu..................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 1 to confirm Health Conditionson Create Plan page" name="Validating that the option1 menu cannot be modified after confirming" time="0.01">
+        <system-out><![CDATA[Given User is on "Create Plan" page.........................................passed
+When User clicks the CONFIRM button in option1 menu.........................passed
+Then User cannot update the health conditions in option1 menu...............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 2 to confirm Health Conditionson Create Plan page" name="Validating option2 menu visibility" time="0.013">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see option2 menu to update the health conditions...........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 2 to confirm Health Conditionson Create Plan page" name="Validating visibility of Confirm button on option2 menu" time="0.013">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a button with text "CONFIRM" in option2 menu...........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 2 to confirm Health Conditionson Create Plan page" name="Validating the option 2 menu interaction" time="0.004">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User can update the health conditions in option2 menu..................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Option 2 to confirm Health Conditionson Create Plan page" name="Validating that the option 2 menu cannot be modified after confirming" time="0.006">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the CONFIRM button in option2..............................passed
+Then User cannot update the health conditions in option2 menu...............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Upload button on Create Plan page" name="Validating the Upload button" time="0.005">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "Confirm conditions and Create Plan" page................passed
+Then User should see a button with name upload "Upload" on the page.........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Upload button on Create Plan page" name="Validating the Upload button operation" time="0.002">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks upload button..............................................passed
+Then User should be able to upload file.....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Upload button on Create Plan page" name="Validating the Upload button with no file selected" time="0.005">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the Upload button without selecting a document.............passed
+Then User should see an error message "Only files with extension .pdf are allowed".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Upload button on Create Plan page" name="Validating the Upload functionality with correct file format and size" time="0.01">
+        <system-out><![CDATA[Given User is on "Confirm conditions and Create Plan" page..................passed
+When User clicks the Upload button by selecting a pdf file of size less than 2MB.passed
+Then User should see a message "File uploaded succesfully"..................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Heading for Diet Plans page" name="Validating the heading of theDiet plans page" time="0.004">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "View Recent Diets" diet page............................passed
+Then User should see the heading "Generated Diet Plans" on the page.........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Menu Bar on Diets Plans page" name="Validating the tabs on the menu bar of Diets page" time="0.007">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "View Recent Diets" diet page............................passed
+Then User should see that Diet Plans tab on the menu bar is visible.........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="View PDF on Diets Plans page" name="Validation of &quot;View PDF&quot; option" time="0.006">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "View Recent Diets" diet page............................passed
+Then View PDF option is available for the generated diet plans..............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="View PDF on Diets Plans page" name="Validation of &quot;View PDF&quot; option 2" time="0.005">
+        <system-out><![CDATA[Given User is logged on to Dietician website "https://DieticianWebsite.com".passed
+When User lands on "View Recent Diets" diet page............................passed
+Then View record number, planID, customer details,plangenerated time, comments available for the generated diet plans.passed
+]]></system-out>
+    </testcase>
+</testsuite>

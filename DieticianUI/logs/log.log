@@ -1,0 +1,103 @@
+[[32mINFO [m] 2022-06-14 11:19:20,008 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,015 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,015 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,021 BaseClass.user_should_see_a_button_with_name_on_the_page() - Verify button with name browse
+[[32mINFO [m] 2022-06-14 11:19:20,023 BaseClass.verifyBrowseBtn() - Verify Browse button and text not visibile
+[[32mINFO [m] 2022-06-14 11:19:20,108 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,113 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,113 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,119 BaseClass.user_should_see_a_tool_tip_for_the_browse_button() - Tooltip of Inputfield visibile
+[[32mINFO [m] 2022-06-14 11:19:20,156 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,157 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,161 BaseClass.user_clicks_the_browse_button_and_selects_a_document() - User clicks the Browse button and selects a document
+[[32mINFO [m] 2022-06-14 11:19:20,164 BaseClass.user_should_see_the_selected_document_in_the_field_next_to_the_browse_button_on_the_page() - User can see selected document
+[[32mINFO [m] 2022-06-14 11:19:20,203 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,204 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,204 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,208 BaseClass.user_should_see_a_button_with_text_at_the_bottom_of_the_page() - Validating the GenerateMenu button text not visibile
+[[32mINFO [m] 2022-06-14 11:19:20,228 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,228 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,236 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
+[[32mINFO [m] 2022-06-14 11:19:20,237 BaseClass.new_diet_plan_should_be_generated_with_the_latest_confirmed_health_conditions() - New Diet plan should be generated with the latest confirmed Health conditions
+[[32mINFO [m] 2022-06-14 11:19:20,258 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,259 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,265 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
+[[32mINFO [m] 2022-06-14 11:19:20,268 BaseClass.user_should_land_on_page() - User not on Generated Diet Plans Page
+[[32mINFO [m] 2022-06-14 11:19:20,288 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,289 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,290 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,292 BaseClass.user_sees_the_heading_on_the_page() - Verify page heading
+[[32mINFO [m] 2022-06-14 11:19:20,293 BaseClass.verifyPageheading() - Validating heading failed
+[[32mINFO [m] 2022-06-14 11:19:20,319 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,320 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,321 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,325 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
+[[32mINFO [m] 2022-06-14 11:19:20,325 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
+[[32mINFO [m] 2022-06-14 11:19:20,336 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,336 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,336 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,338 BaseClass.user_should_see_a_button_with_text_in_option1_menu() - Validating the Confirm1 button text not visibile
+[[32mINFO [m] 2022-06-14 11:19:20,350 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,351 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,351 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,355 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options visible
+[[32mINFO [m] 2022-06-14 11:19:20,356 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options click
+[[32mINFO [m] 2022-06-14 11:19:20,372 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,372 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,373 BaseClass.user_clicks_the_confirm_button_in_option1_menu() - Validating the Confirm1 options click
+[[32mINFO [m] 2022-06-14 11:19:20,374 BaseClass.user_cannot_update_the_health_conditions_in_option1_menu() - Confirm1 options Saved and can be changed
+[[32mINFO [m] 2022-06-14 11:19:20,401 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,402 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,403 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,404 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
+[[32mINFO [m] 2022-06-14 11:19:20,404 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
+[[32mINFO [m] 2022-06-14 11:19:20,416 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,416 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,416 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,423 BaseClass.user_should_see_a_button_with_text_in_option2_menu() - Validating the Confirm2 button text not visibile
+[[32mINFO [m] 2022-06-14 11:19:20,433 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,434 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,434 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,435 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options visible
+[[32mINFO [m] 2022-06-14 11:19:20,435 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options click
+[[32mINFO [m] 2022-06-14 11:19:20,444 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,444 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,447 BaseClass.user_clicks_the_confirm_button_in_option2() - Validating the Confirm2 options click
+[[32mINFO [m] 2022-06-14 11:19:20,448 BaseClass.user_cannot_update_the_health_conditions_in_option2_menu() - Confirm1 options Saved and can be changed
+[[32mINFO [m] 2022-06-14 11:19:20,461 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,462 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-14 11:19:20,462 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,463 BaseClass.user_should_see_a_button_with_name_upload_on_the_page() - Verify button with name upload
+[[32mINFO [m] 2022-06-14 11:19:20,463 BaseClass.verifyUploadBtn() - Verify upload button and text not visibile
+[[32mINFO [m] 2022-06-14 11:19:20,473 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,473 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,473 BaseClass.user_clicks_upload_button() - User clicks upload button 
+[[32mINFO [m] 2022-06-14 11:19:20,474 BaseClass.user_should_be_able_to_upload_file() - User should be able to upload file 
+[[32mINFO [m] 2022-06-14 11:19:20,490 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,490 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,490 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Upload button without selecting a document
+[[32mINFO [m] 2022-06-14 11:19:20,491 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Document selected
+[[32mINFO [m] 2022-06-14 11:19:20,491 BaseClass.user_should_see_an_error_message() - User should see an error message
+[[32mINFO [m] 2022-06-14 11:19:20,491 BaseClass.user_should_see_an_error_message() - Only files with extension .pdf are allowed
+[[32mINFO [m] 2022-06-14 11:19:20,530 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-14 11:19:20,530 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-14 11:19:20,532 BaseClass.user_clicks_the_upload_button_by_selecting_a_pdf_file_of_size_less_than_2mb() - Uploading PDF file of size less than 2MB
+[[32mINFO [m] 2022-06-14 11:19:20,533 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-14 11:19:20,533 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-14 11:19:20,553 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,554 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-14 11:19:20,554 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,555 BaseClass.user_should_see_the_heading_on_the_page() - Verify page heading
+[[32mINFO [m] 2022-06-14 11:19:20,555 BaseClass.verifyPageheading() - Validating heading failed
+[[32mINFO [m] 2022-06-14 11:19:20,568 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,569 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-14 11:19:20,569 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,570 BaseClass.user_should_see_that_diet_plans_tab_on_the_menu_bar_is_selected() - Diet Plans tab on the menu bar is visible
+[[32mINFO [m] 2022-06-14 11:19:20,585 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,587 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-14 11:19:20,587 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,588 BaseClass.view_pdf_option_is_available_for_the_generated_diet_plans() - View PDF is visible
+[[32mINFO [m] 2022-06-14 11:19:20,598 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-14 11:19:20,600 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-14 11:19:20,600 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-14 11:19:20,601 BaseClass.view_record_number_plan_id_customer_details_plangenerated_time_comments_available_for_the_generated_diet_plans() - Record Number, Plan ID, Customer Details, Plan Generated time, Comments fields visible
