@@ -30,4 +30,6 @@ Properties prop;
 		return prop.getProperty("browser");
 	}
 
+	public static final String EXCEL ="./DataFiles/Hackathon.xlsx";
+	
 }
