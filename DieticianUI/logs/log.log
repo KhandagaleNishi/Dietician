@@ -1,768 +1,768 @@
-[[32mINFO [m] 2022-06-15 22:23:36,341 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,350 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,350 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,354 BaseClass.user_should_see_a_button_with_name_on_the_page() - Verify button with name browse
-[[32mINFO [m] 2022-06-15 22:23:36,354 BaseClass.verifyBrowseBtn() - Verify Browse button and text not visibile
-[[32mINFO [m] 2022-06-15 22:23:36,451 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,452 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,452 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,456 BaseClass.user_should_see_a_tool_tip_for_the_browse_button() - Tooltip of Inputfield visibile
-[[32mINFO [m] 2022-06-15 22:23:36,517 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:36,517 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:36,519 BaseClass.user_clicks_the_browse_button_and_selects_a_document() - User clicks the Browse button and selects a document
-[[32mINFO [m] 2022-06-15 22:23:36,520 BaseClass.user_should_see_the_selected_document_in_the_field_next_to_the_browse_button_on_the_page() - User can see selected document
-[[32mINFO [m] 2022-06-15 22:23:36,570 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,572 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,572 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,576 BaseClass.user_should_see_a_button_with_text_at_the_bottom_of_the_page() - Validating the GenerateMenu button text not visibile
-[[32mINFO [m] 2022-06-15 22:23:36,603 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:36,604 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:36,610 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
-[[32mINFO [m] 2022-06-15 22:23:36,610 BaseClass.new_diet_plan_should_be_generated_with_the_latest_confirmed_health_conditions() - New Diet plan should be generated with the latest confirmed Health conditions
-[[32mINFO [m] 2022-06-15 22:23:36,639 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:36,639 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:36,641 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
-[[32mINFO [m] 2022-06-15 22:23:36,643 BaseClass.user_should_land_on_page() - User not on Generated Diet Plans Page
-[[32mINFO [m] 2022-06-15 22:23:36,676 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,676 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,677 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,677 BaseClass.user_sees_the_heading_on_the_page() - Verify page heading
-[[32mINFO [m] 2022-06-15 22:23:36,678 BaseClass.verifyPageheading() - Validating heading failed
-[[32mINFO [m] 2022-06-15 22:23:36,707 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,708 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,708 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,711 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
-[[32mINFO [m] 2022-06-15 22:23:36,711 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
-[[32mINFO [m] 2022-06-15 22:23:36,755 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,755 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,755 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,757 BaseClass.user_should_see_a_button_with_text_in_option1_menu() - Validating the Confirm1 button text not visibile
-[[32mINFO [m] 2022-06-15 22:23:36,782 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,782 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,782 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,783 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options visible
-[[32mINFO [m] 2022-06-15 22:23:36,783 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options click
-[[32mINFO [m] 2022-06-15 22:23:36,816 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:36,817 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:36,818 BaseClass.user_clicks_the_confirm_button_in_option1_menu() - Validating the Confirm1 options click
-[[32mINFO [m] 2022-06-15 22:23:36,818 BaseClass.user_cannot_update_the_health_conditions_in_option1_menu() - Confirm1 options Saved and can be changed
-[[32mINFO [m] 2022-06-15 22:23:36,857 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,858 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,858 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,860 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
-[[32mINFO [m] 2022-06-15 22:23:36,860 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
-[[32mINFO [m] 2022-06-15 22:23:36,895 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,896 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,896 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,899 BaseClass.user_should_see_a_button_with_text_in_option2_menu() - Validating the Confirm2 button text not visibile
-[[32mINFO [m] 2022-06-15 22:23:36,930 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:36,931 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:36,931 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:36,931 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options visible
-[[32mINFO [m] 2022-06-15 22:23:36,931 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options click
-[[32mINFO [m] 2022-06-15 22:23:36,969 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:36,969 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:36,975 BaseClass.user_clicks_the_confirm_button_in_option2() - Validating the Confirm2 options click
-[[32mINFO [m] 2022-06-15 22:23:36,976 BaseClass.user_cannot_update_the_health_conditions_in_option2_menu() - Confirm1 options Saved and can be changed
-[[32mINFO [m] 2022-06-15 22:23:37,132 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:37,136 BaseClass.user_lands_on_page() - User on Create Plan page Title check
-[[32mINFO [m] 2022-06-15 22:23:37,136 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:37,143 BaseClass.user_should_see_a_button_with_name_upload_on_the_page() - Verify button with name upload
-[[32mINFO [m] 2022-06-15 22:23:37,144 BaseClass.verifyUploadBtn() - Verify upload button and text not visibile
-[[32mINFO [m] 2022-06-15 22:23:37,181 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:37,182 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:37,183 BaseClass.user_clicks_upload_button() - User clicks upload button 
-[[32mINFO [m] 2022-06-15 22:23:37,183 BaseClass.user_should_be_able_to_upload_file() - User should be able to upload file 
-[[32mINFO [m] 2022-06-15 22:23:37,213 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:37,213 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:37,214 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Upload button without selecting a document
-[[32mINFO [m] 2022-06-15 22:23:37,214 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Document selected
-[[32mINFO [m] 2022-06-15 22:23:37,214 BaseClass.user_should_see_an_error_message() - User should see an error message
-[[32mINFO [m] 2022-06-15 22:23:37,214 BaseClass.user_should_see_an_error_message() - Only files with extension .pdf are allowed
-[[32mINFO [m] 2022-06-15 22:23:37,267 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
-[[32mINFO [m] 2022-06-15 22:23:37,268 BaseClass.user_is_on_page() - User is on Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:37,269 BaseClass.user_clicks_the_upload_button_by_selecting_a_pdf_file_of_size_less_than_2mb() - Uploading PDF file of size less than 2MB
-[[32mINFO [m] 2022-06-15 22:23:37,270 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:37,270 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:37,329 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:37,332 BaseClass.user_wants_to_enter_new_patient_details() - User wants to enter patient details
-[[32mINFO [m] 2022-06-15 22:23:37,332 BaseClass.patient_data_from_is_visible() - Patient form header is visible
-[[32mINFO [m] 2022-06-15 22:23:37,376 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:37,376 BaseClass.user_attempts_to_submit_the_form_without_filling_up_mandatory_fields_from_sheetname() - User fill the form without entering mandatory fields
-[[32mINFO [m] 2022-06-15 22:23:38,232 BaseClass.unable_to_update_and_display_error_message() - Please fillup all the mandatory fields
-[[32mINFO [m] 2022-06-15 22:23:38,290 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:38,292 BaseClass.user_attempts_to_put_numeric_value_in_full_name_field_from_sheetname() - User enters numeric value in full name field
-[[32mINFO [m] 2022-06-15 22:23:38,484 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
-[[32mINFO [m] 2022-06-15 22:23:38,552 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:38,554 BaseClass.user_does_not_put_space_in_between_first_name_and_last_name_for_full_name_field_from_sheetname() - User enters full name without space
-[[32mINFO [m] 2022-06-15 22:23:38,660 BaseClass.unable_to_enter_and_show_error_message() - First and Last Name should have space in between
-[[32mINFO [m] 2022-06-15 22:23:38,686 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:38,687 BaseClass.user_attempts_to_submit_the_form_without_filling_up_full_name_field_from_sheetname() - User leaves full name as empty
-[[32mINFO [m] 2022-06-15 22:23:38,792 BaseClass.unable_to_enter_and_show_error_message() - Please enter Full Name
-[[32mINFO [m] 2022-06-15 22:23:38,824 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:38,825 BaseClass.user_does_not_enter_any_value_in_addess_linel_field_from_sheetname() - User leaves Addess line l as empty
-[[32mINFO [m] 2022-06-15 22:23:38,947 BaseClass.unable_to_enter_and_show_error_message() - Please enter Addess line 1
-[[32mINFO [m] 2022-06-15 22:23:39,004 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,005 BaseClass.user_submit_the_form_without_selecting_any_value_for_country_field_from_sheetname() - User leaves country field as empty
-[[32mINFO [m] 2022-06-15 22:23:39,120 BaseClass.unable_to_enter_and_show_error_message() - Please select Country from dropdown
-[[32mINFO [m] 2022-06-15 22:23:39,148 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,149 BaseClass.user_attempts_to_put_numeric_value_in_city_field_from_sheetname() - User enters numeric value in city field
-[[32mINFO [m] 2022-06-15 22:23:39,285 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
-[[32mINFO [m] 2022-06-15 22:23:39,303 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,305 BaseClass.user_attempts_to_submit_the_form_without_filling_up_city_field_from_sheetname() - User leaves city as empty
-[[32mINFO [m] 2022-06-15 22:23:39,403 BaseClass.unable_to_enter_and_show_error_message() - Please enter City
-[[32mINFO [m] 2022-06-15 22:23:39,424 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,425 BaseClass.user_attempts_to_put_numeric_value_in_state_province_or_region_field_from_sheetname() - User enters numeric value in State field
-[[32mINFO [m] 2022-06-15 22:23:39,574 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
-[[32mINFO [m] 2022-06-15 22:23:39,626 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,632 BaseClass.user_attempts_to_submit_the_form_without_filling_up_state_province_or_region_field_from_sheetname() - User leaves state as empty
-[[32mINFO [m] 2022-06-15 22:23:39,819 BaseClass.unable_to_enter_and_show_error_message() - Please enter State, province or region
-[[32mINFO [m] 2022-06-15 22:23:39,885 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:39,892 BaseClass.user_attempts_to_submit_the_form_without_filling_up_postal_code_field_from_sheetname() - User leaves postal code as empty
-[[32mINFO [m] 2022-06-15 22:23:40,033 BaseClass.unable_to_enter_and_show_error_message() - Please enter Postal code
-[[32mINFO [m] 2022-06-15 22:23:40,060 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,061 BaseClass.user_entered_not_supported_data_format_in_postal_code_field_from_sheetname() - User enters string in postal code
-[[32mINFO [m] 2022-06-15 22:23:40,131 BaseClass.unable_to_enter_and_show_error_message() - Invalid Postal code format
-[[32mINFO [m] 2022-06-15 22:23:40,155 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,156 BaseClass.user_does_not_enter_any_value_in_email_field_from_sheetname() - User leaves email as empty
-[[32mINFO [m] 2022-06-15 22:23:40,219 BaseClass.unable_to_enter_and_show_error_message() - Please enter Email
-[[32mINFO [m] 2022-06-15 22:23:40,239 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,239 BaseClass.user_entered_not_supported_data_format_in_email_field_from_sheetname() - User enter invalid email format
-[[32mINFO [m] 2022-06-15 22:23:40,240 BaseClass.unable_to_enter_and_show_error_message() - Invalid email format
-[[32mINFO [m] 2022-06-15 22:23:40,257 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,257 BaseClass.user_attempts_to_put_characters_in_phone_number_field_from_sheetname() - User enter character in phone no field
-[[32mINFO [m] 2022-06-15 22:23:40,257 BaseClass.unable_to_enter_and_show_error_message() - Only Numeric values are allowed
-[[32mINFO [m] 2022-06-15 22:23:40,283 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,283 BaseClass.user_attempts_to_submit_the_form_without_filling_up_phone_number_field_from_sheetname() - User leaves phone no as empty
-[[32mINFO [m] 2022-06-15 22:23:40,340 BaseClass.unable_to_enter_and_show_error_message() - Please enter Phone number
-[[32mINFO [m] 2022-06-15 22:23:40,357 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,357 BaseClass.user_fills_up_the_form_with_valid_data_inputs_from_sheetname() - User enter valid data inside all fields in the form
-[[32mINFO [m] 2022-06-15 22:23:40,390 BaseClass.user_can_see_button() - Update Button dispalyed
-[[32mINFO [m] 2022-06-15 22:23:40,407 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
-[[32mINFO [m] 2022-06-15 22:23:40,408 BaseClass.user_clicks_on_the_add_new_patient_button_after_entering_valid_patient_data() - User click update button after entering field values
-[[32mINFO [m] 2022-06-15 22:23:40,408 BaseClass.user_lands_on_my_patients_page_with_the_details_displayed() - User redirected to New Patient page
-[[32mINFO [m] 2022-06-15 22:23:40,460 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,460 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,461 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,461 BaseClass.user_can_see_the_home_tab_on_header_menu() - Verify Home menu
-[[32mINFO [m] 2022-06-15 22:23:40,478 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,479 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,479 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,479 BaseClass.user_can_see_the_new_patient_tab_from_the_header_menu() - Verify New Patient menu
-[[32mINFO [m] 2022-06-15 22:23:40,495 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,495 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,495 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,495 BaseClass.user_can_see_the_my_patient_tab_from_the_header_menu() - Verify My Patient menu
-[[32mINFO [m] 2022-06-15 22:23:40,522 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,523 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,523 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,523 BaseClass.user_can_see_the_diet_plans_tab_from_the_header_menu() - Verify My Patient menu
-[[32mINFO [m] 2022-06-15 22:23:40,556 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,557 BaseClass.user_selects_new_patient_tab() - User selects new patient tab
-[[32mINFO [m] 2022-06-15 22:23:40,560 BaseClass.user_lands_on_new_patient_page() - Verify New Patient page title
-[[32mINFO [m] 2022-06-15 22:23:40,560 BaseClass.verifyNewPatientPageTitle() - Verified 'New Patient' page title
-[[32mINFO [m] 2022-06-15 22:23:40,581 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,582 BaseClass.user_selects_my_patient_tab() - User selects my patient tab
-[[32mINFO [m] 2022-06-15 22:23:40,582 BaseClass.user_lands_on_my_patient_page() - Verify My patient page title
-[[32mINFO [m] 2022-06-15 22:23:40,599 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,600 BaseClass.user_selects_diet_plans_tab() - User selects Diet Plans tab
-[[32mINFO [m] 2022-06-15 22:23:40,600 BaseClass.user_lands_on_diet_plans_page() - Verify Diet Plan page title
-[[32mINFO [m] 2022-06-15 22:23:40,600 BaseClass.verifyDietPlanPageTitle() - Verified 'My Patient' page title
-[[32mINFO [m] 2022-06-15 22:23:40,614 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,615 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,615 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,615 BaseClass.user_can_see_banner_or_announcements_section_in_right_side_bar() - Verify Banner or Announcements section
-[[32mINFO [m] 2022-06-15 22:23:40,630 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,630 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,630 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,630 BaseClass.user_can_see_logged_in_as_message_in_top_of_right_side_bar() - Display dietician name
-[[32mINFO [m] 2022-06-15 22:23:40,652 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,652 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
-[[32mINFO [m] 2022-06-15 22:23:40,652 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
-[[32mINFO [m] 2022-06-15 22:23:40,653 BaseClass.user_can_read_dietician_home_page_image_and_content() - Verify page image and content
-[[32mINFO [m] 2022-06-15 22:23:40,668 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,668 BaseClass.user_can_see_button_after_successful_login() - Verify SIGN OUT button after login
-[[32mINFO [m] 2022-06-15 22:23:40,668 BaseClass.user_can_click_on_button_for_logging_off_successfully() - User SIGN OUT Successfully
-[[32mINFO [m] 2022-06-15 22:23:40,698 BaseClass.user_is_directed_to_about_page() - User is not in AboutPage
-[[32mINFO [m] 2022-06-15 22:23:40,720 BaseClass.user_is_directed_to_blogs_page() - User is not in BlogsPage
-[[32mINFO [m] 2022-06-15 22:23:40,740 BaseClass.user_is_re_directed_to_client_testimonial_page() - User is not in ClientPage
-[[32mINFO [m] 2022-06-15 22:23:40,756 BaseClass.user_is_directed_to_contact_us_page() - User is not in ContactPage
-[[32mINFO [m] 2022-06-15 22:23:40,774 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,774 BaseClass.user_should_get_a_message_please_fill_all_fields_above() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,788 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,789 BaseClass.user_should_get_a_message_please_fill_first_name_with_charactersof_maximum_ten_characters_long() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,803 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,804 BaseClass.user_should_get_a_message_please_fill_last_name_with_charactersof_maximum_ten_characters_long() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,822 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,823 BaseClass.user_should_get_a_message_please_fill_email_field_with_character_numeric_and_special_character_combinations() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,837 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,838 BaseClass.user_should_get_a_message_please_fill_subject_field_with_some_chacters_of_maximum_twenty_letters_length() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,852 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,852 BaseClass.user_should_get_a_message_please_fill_write_your_message_here_field_with_alphabet_characters_of_maximum_two_hundred_length() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,872 BaseClass.user_is_on_page() - User is not in ContactUsPage
-[[32mINFO [m] 2022-06-15 22:23:40,873 BaseClass.user_should_get_a_message_your_request_is_submitted() - Message is visible
-[[32mINFO [m] 2022-06-15 22:23:40,891 BaseClass.user_is_directed_to_featured_content_page() - User is not in FeaturedPage
-[[32mINFO [m] 2022-06-15 22:23:40,913 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:40,913 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,914 BaseClass.user_should_see_a_logo_image_with_the_company_name_on_the_home_page() - Logo is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,932 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:40,932 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,933 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,949 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,950 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:40,951 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,000 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,001 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,001 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,004 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,018 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,019 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,020 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,034 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,034 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,034 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,035 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,053 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,054 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,070 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,071 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,072 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.ProductVisibility() - Product is Visible in the Home Page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.TeamVisibility() - Team is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.RegisterVisibility() - Register is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.AboutVisibility() - About is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,089 BaseClass.BlogVisibility() - Blog is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,105 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,106 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,107 BaseClass.user_should_see_a_search_option_symbol_on_the_bottom_menu_bar_of_the_home_page() - SearchIcon is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,121 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,123 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,123 BaseClass.user_should_see_a_signin_option_next_to_the_search_button_on_the_bottom_menu_bar_of_the_home_page() - SignIn Button is Visible in the Home page
-[[32mINFO [m] 2022-06-15 22:23:41,139 BaseClass.user_is_re_directed_to_product_page() - User is not in ProductPage
-[[32mINFO [m] 2022-06-15 22:23:41,157 BaseClass.user_is_directed_to_register_page() - User is not in RegisterPage
-[[32mINFO [m] 2022-06-15 22:23:41,173 BaseClass.user_is_directed_to_doctor_team_page() - User is not in TeamPage
-[[32mINFO [m] 2022-06-15 22:23:41,191 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,191 BaseClass.user_lands_on() - User is not in TeamPage
-[[32mINFO [m] 2022-06-15 22:23:41,192 BaseClass.user_should_see_default_three_doctor_names_on_first_page() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,209 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,210 BaseClass.user_lands_on() - User is not in TeamPage
-[[32mINFO [m] 2022-06-15 22:23:41,210 BaseClass.user_should_see_default_three_doctor_names_on_first_page() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,224 BaseClass.user_is_on_of_team() - User is not in TeamPage
-[[32mINFO [m] 2022-06-15 22:23:41,225 BaseClass.user_should_be_directed_to_next_doctor_names_on_team_page() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,237 BaseClass.user_is_on_of_team() - User is not in TeamPage
-[[32mINFO [m] 2022-06-15 22:23:41,237 BaseClass.user_lands_on_last_page_of_team() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,238 BaseClass.next_button_should_be_disabled() - Button is enabled
-[[32mINFO [m] 2022-06-15 22:23:41,250 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,251 BaseClass.user_lands_on_first_page_of_team() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,251 BaseClass.previous_button_should_be_disabled() - Button is enabled
-[[32mINFO [m] 2022-06-15 22:23:41,264 BaseClass.user_is_on_second_page_of_team() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,265 BaseClass.user_should_be_directed_to_previous_names_of_doctor() - Doctor's Names are Visible in the Team page
-[[32mINFO [m] 2022-06-15 22:23:41,280 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,281 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,282 BaseClass.user_should_see_the_title_of_the_page_as() - User is not in HomePage
-[[32mINFO [m] 2022-06-15 22:23:41,296 BaseClass.user_is_on_the_browser() - User is on the Browser
-[[32mINFO [m] 2022-06-15 22:23:41,297 BaseClass.user_opens_the_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,298 BaseClass.user_should_see_a_link_with_horizontal_lines_on_the_top_right_corner_of_the_home_page() - List of screen Icon is present
-[[32mINFO [m] 2022-06-15 22:23:41,312 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,313 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,313 BaseClass.user_should_see_a_menu_with_list_of_clickable_links_is_displayed() - Menu with clickable link is is present 
-[[32mINFO [m] 2022-06-15 22:23:41,333 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,334 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,335 BaseClass.user_should_see_name_on_the_list_of_screens_as() - Name of the List Screens is present
-[[32mINFO [m] 2022-06-15 22:23:41,359 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,360 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,365 BaseClass.user_should_see_the_links_to_dietician_pages_under_the_sub_menu_with_text() - User should see the links to Dietician pages under the sub menu
-[[32mINFO [m] 2022-06-15 22:23:41,384 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,386 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,388 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,410 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,411 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,412 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,425 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,426 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
-[[32mINFO [m] 2022-06-15 22:23:41,426 BaseClass.user_is_re_directed_to_view_recent_diets_page() - User is re-directed to View Recent Diets page
-[[32mINFO [m] 2022-06-15 22:23:41,442 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,442 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,443 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,456 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,456 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,457 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,469 BaseClass.user_is_on_view_recent_diets_page_after_signning_in() - User is on View Recent Diets page after signning in
-[[32mINFO [m] 2022-06-15 22:23:41,469 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
-[[32mINFO [m] 2022-06-15 22:23:41,469 BaseClass.user_is_re_directed_to_view_recent_test_reports_page() - User is re-directed to View Recent Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:41,483 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,487 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,488 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,504 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,505 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,505 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,520 BaseClass.user_is_on_view_recent_test_reports_page_after_signning_in() - Dietician pages of screens are visible
-[[32mINFO [m] 2022-06-15 22:23:41,521 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
-[[32mINFO [m] 2022-06-15 22:23:41,521 BaseClass.user_is_re_directed_to_add_new_patient_page() - User is re-directed to Add New Patient page
-[[32mINFO [m] 2022-06-15 22:23:41,540 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,541 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,541 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,556 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,557 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,558 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,573 BaseClass.user_is_on_add_new_patient_page_after_signning_in() - User is on Add New Patient page after signning in
-[[32mINFO [m] 2022-06-15 22:23:41,573 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
-[[32mINFO [m] 2022-06-15 22:23:41,573 BaseClass.user_is_re_directed_to_dietician_home_page() - User is on Add New Patient page after signning in
-[[32mINFO [m] 2022-06-15 22:23:41,586 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,586 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,586 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,602 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,602 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,602 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,615 BaseClass.user_is_on_dietician_home_page_after_signning_in() - User is on Dietician Home page after signning in
-[[32mINFO [m] 2022-06-15 22:23:41,616 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
-[[32mINFO [m] 2022-06-15 22:23:41,617 BaseClass.user_is_re_directed_to_my_patients_page() - User is re-directed to My Patients page
-[[32mINFO [m] 2022-06-15 22:23:41,634 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,634 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,635 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,650 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,651 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,651 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,666 BaseClass.user_is_on_my_patients_page_after_signning_in() - User is on My Patients page after signning in
-[[32mINFO [m] 2022-06-15 22:23:41,666 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
-[[32mINFO [m] 2022-06-15 22:23:41,666 BaseClass.user_is_re_directed_to_confirm_conditions_and_create_plan_page() - User is re-directed to Confirm Conditions and Create Plan page
-[[32mINFO [m] 2022-06-15 22:23:41,688 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,688 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,689 BaseClass.user_should_see_the_links_to_public_pages_under_the_sub_menu_with_text() - User should see the links to public pages under the sub menu
-[[32mINFO [m] 2022-06-15 22:23:41,706 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,706 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,707 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,721 BaseClass.user_is_on_home_page() - User is on Home page
-[[32mINFO [m] 2022-06-15 22:23:41,722 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,722 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,759 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,762 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,766 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,787 BaseClass.user_is_on_sign_in_page() - User is on Sign In page
-[[32mINFO [m] 2022-06-15 22:23:41,787 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,787 BaseClass.user_is_re_directed_to_register_page() - User is re-directed to Register page
-[[32mINFO [m] 2022-06-15 22:23:41,802 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,802 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,803 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,819 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:41,820 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,820 BaseClass.user_is_re_directed_to_team_page() - User is re-directed to Team page
-[[32mINFO [m] 2022-06-15 22:23:41,838 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,838 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,839 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,853 BaseClass.user_is_on_team_page() - User is on Team page
-[[32mINFO [m] 2022-06-15 22:23:41,853 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,854 BaseClass.user_is_re_directed_to_testimonials_page() - User is re-directed to Testimonials page
-[[32mINFO [m] 2022-06-15 22:23:41,871 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,871 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,871 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,887 BaseClass.user_is_on_testimonials_page() - User is on Testimonials page
-[[32mINFO [m] 2022-06-15 22:23:41,887 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,887 BaseClass.user_is_re_directed_to_forgot_password_page() - User is re-directed to Forgot Password page
-[[32mINFO [m] 2022-06-15 22:23:41,900 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,901 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,901 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,915 BaseClass.user_is_on_forgot_password_page() - User is on Forgot Password page
-[[32mINFO [m] 2022-06-15 22:23:41,915 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,915 BaseClass.user_is_re_directed_to_product_features_page() - User is re-directed to Product Features page
-[[32mINFO [m] 2022-06-15 22:23:41,930 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,930 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,930 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,944 BaseClass.user_is_on_product_feature_page() - User is on Product Feature page
-[[32mINFO [m] 2022-06-15 22:23:41,944 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,944 BaseClass.user_is_re_directed_to_contact_page() - User is re-directed to Contact page
-[[32mINFO [m] 2022-06-15 22:23:41,957 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,957 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,957 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,970 BaseClass.user_is_on_contact_page() - User is on Contact page
-[[32mINFO [m] 2022-06-15 22:23:41,970 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:41,970 BaseClass.user_is_re_directed_to_blogs_page() - User is re-directed to Blogs page
-[[32mINFO [m] 2022-06-15 22:23:41,982 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,983 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:41,983 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:41,999 BaseClass.user_is_on_blogs_page() - User is on Blogs page
-[[32mINFO [m] 2022-06-15 22:23:42,000 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:42,000 BaseClass.user_is_re_directed_to_featured_content_page() - User is re-directed to Featured Content page
-[[32mINFO [m] 2022-06-15 22:23:42,015 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:42,016 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:42,016 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
-[[32mINFO [m] 2022-06-15 22:23:42,030 BaseClass.user_is_on_featured_content_page() - User is on Featured Content page
-[[32mINFO [m] 2022-06-15 22:23:42,030 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
-[[32mINFO [m] 2022-06-15 22:23:42,030 BaseClass.user_is_re_directed_to_home_page() - User is re-directed to Home page
-[[32mINFO [m] 2022-06-15 22:23:42,057 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
-[[32mINFO [m] 2022-06-15 22:23:42,057 BaseClass.homepagevalidation() - User is not on Home Page after login
-[[32mINFO [m] 2022-06-15 22:23:42,060 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
-[[32mINFO [m] 2022-06-15 22:23:42,060 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
-[[32mINFO [m] 2022-06-15 22:23:42,060 BaseClass.page_displays_breadcrumbs_as_dietician_softaware_my_patients() - Verify secondary navigation path
-[[32mINFO [m] 2022-06-15 22:23:42,060 BaseClass.breadcrumbvalidation() - The secndary navigation path Dietician Softaware/My Patients is diaplayed
-[[32mINFO [m] 2022-06-15 22:23:42,075 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
-[[32mINFO [m] 2022-06-15 22:23:42,075 BaseClass.homepagevalidation() - User is not on Home Page after login
-[[32mINFO [m] 2022-06-15 22:23:42,075 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
-[[32mINFO [m] 2022-06-15 22:23:42,075 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
-[[32mINFO [m] 2022-06-15 22:23:42,076 BaseClass.page_title_is_displayed_as() - Verify Mypatients title
-[[32mINFO [m] 2022-06-15 22:23:42,076 BaseClass.verifyMyPageTitle() - My Patients title is not displayed
-[[32mINFO [m] 2022-06-15 22:23:42,091 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
-[[32mINFO [m] 2022-06-15 22:23:42,095 BaseClass.homepagevalidation() - User is not on Home Page after login
-[[32mINFO [m] 2022-06-15 22:23:42,095 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
-[[32mINFO [m] 2022-06-15 22:23:42,095 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
-[[32mINFO [m] 2022-06-15 22:23:42,095 BaseClass.search_button_is_disaplyed_as() - Veriying Search Button & Text
-[[32mINFO [m] 2022-06-15 22:23:42,095 BaseClass.verifysearchfeature() - Search feature is not displayed
-[[32mINFO [m] 2022-06-15 22:23:42,114 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
-[[32mINFO [m] 2022-06-15 22:23:42,114 BaseClass.homepagevalidation() - User is not on Home Page after login
-[[32mINFO [m] 2022-06-15 22:23:42,115 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
-[[32mINFO [m] 2022-06-15 22:23:42,115 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
-[[32mINFO [m] 2022-06-15 22:23:42,117 BaseClass.name_email_and_phone_number_filters_are_displayed() - Verifying textboxes in My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,117 BaseClass.textboxesvalidation() - Name, email and phone number filters are displayed
-[[32mINFO [m] 2022-06-15 22:23:42,136 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,137 BaseClass.user_clicks_on_view_pdf_button() - User clicks on the View PDF button
-[[32mINFO [m] 2022-06-15 22:23:42,137 BaseClass.pdf_is_opened_in_proper_readable_format() - PDF is opened in readable format
-[[32mINFO [m] 2022-06-15 22:23:42,152 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
-[[32mINFO [m] 2022-06-15 22:23:42,152 BaseClass.user_is_on_pdf_file() - User is on PDF file
-[[32mINFO [m] 2022-06-15 22:23:42,152 BaseClass.patientdetails() - PDF displays patients details like  patient ID, name, email, address, phone number
-[[32mINFO [m] 2022-06-15 22:23:42,165 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
-[[32mINFO [m] 2022-06-15 22:23:42,165 BaseClass.user_is_on_pdf_file() - User is on PDF file
-[[32mINFO [m] 2022-06-15 22:23:42,165 BaseClass.doctordetails() - PDF displays doctor details like doc ID, doctor name, email address, clinic/facility name, doctor's specialization
-[[32mINFO [m] 2022-06-15 22:23:42,183 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
-[[32mINFO [m] 2022-06-15 22:23:42,184 BaseClass.user_is_on_pdf_file() - User is on PDF file
-[[32mINFO [m] 2022-06-15 22:23:42,185 BaseClass.healthdetails() - PDF displays health details like  list of conditions, preferences list, Co-morbidites
-[[32mINFO [m] 2022-06-15 22:23:42,198 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
-[[32mINFO [m] 2022-06-15 22:23:42,198 BaseClass.user_is_on_pdf_file() - User is on PDF file
-[[32mINFO [m] 2022-06-15 22:23:42,198 BaseClass.dietdetails() - PDF displays diet menu for 7 days, any warning and comments mentioned by doctor
-[[32mINFO [m] 2022-06-15 22:23:42,215 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,215 BaseClass.patients_record_is_displayed() - Patient record verfication
-[[32mINFO [m] 2022-06-15 22:23:42,215 BaseClass.verifypatientrecord() - Records of all users get displayed
-[[32mINFO [m] 2022-06-15 22:23:42,215 BaseClass.each_patient_is_be_displayed() - Customer ID verfication
-[[32mINFO [m] 2022-06-15 22:23:42,215 BaseClass.verifycustomerid() - Customer id is not displayed under CustID column
-[[32mINFO [m] 2022-06-15 22:23:42,229 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,229 BaseClass.patients_record_is_displayed() - Patient record verfication
-[[32mINFO [m] 2022-06-15 22:23:42,230 BaseClass.verifypatientrecord() - Records of all users get displayed
-[[32mINFO [m] 2022-06-15 22:23:42,230 BaseClass.each_patient_is_dispalyed() - Patient name verfication
-[[32mINFO [m] 2022-06-15 22:23:42,230 BaseClass.verifypatientname() - Patient name is not displayed under Name column
-[[32mINFO [m] 2022-06-15 22:23:42,243 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,244 BaseClass.patients_record_is_displayed() - Patient record verfication
-[[32mINFO [m] 2022-06-15 22:23:42,244 BaseClass.verifypatientrecord() - Records of all users get displayed
-[[32mINFO [m] 2022-06-15 22:23:42,249 BaseClass.each_patient_and_is_dispalyed() - Patient details verfication
-[[32mINFO [m] 2022-06-15 22:23:42,264 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,265 BaseClass.user_clicks_on_view_previous_test_reports_button() - User clicks View Previous Test Reports page button
-[[32mINFO [m] 2022-06-15 22:23:42,265 BaseClass.verifyviewreporttitle() - User is not redirected to View Previuos Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,280 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,281 BaseClass.user_clicks_on_view_previous_diet_plans_button() - User clicks View Previous Diet Plans page button
-[[32mINFO [m] 2022-06-15 22:23:42,281 BaseClass.verifyviewplantitle() - User is not redirected to Generated Diet Plans page
-[[32mINFO [m] 2022-06-15 22:23:42,294 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,294 BaseClass.user_clicks_on_create_new_report_or_plan_button() - User clicks Create New Report/Plan page button
-[[32mINFO [m] 2022-06-15 22:23:42,295 BaseClass.verifygeneratereport() - User is not redirected to Confirm Health Conditions and Generate a New Diet plan page
-[[32mINFO [m] 2022-06-15 22:23:42,310 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,310 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,310 BaseClass.breadcrumbsvalidation() - The secndary navigation path Dietician Softaware/View Previous Test Reports is displayed
-[[32mINFO [m] 2022-06-15 22:23:42,323 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,323 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,323 BaseClass.verifypagetitle() - View Previuos Test Reports page title is not displayed
-[[32mINFO [m] 2022-06-15 22:23:42,342 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,342 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,343 BaseClass.primaryinfovalidation() - Page displays primary information like patient Id  number, name, email address, Phone number, Address
-[[32mINFO [m] 2022-06-15 22:23:42,357 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,357 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,357 BaseClass.tableheadervalidation() - Table header displays column heading as Record number, Doc-ID, File Uploaded time, File/Report name, Identified health conditions
-[[32mINFO [m] 2022-06-15 22:23:42,369 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,369 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,370 BaseClass.tablecontentsvalidation() - Table contents displays document number, View PDF,  Uploaded time, File name, Health conditions of each patient
-[[32mINFO [m] 2022-06-15 22:23:42,384 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,385 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,386 BaseClass.signoutbtnverification() - Signout button is not dispalyed in the page
-[[32mINFO [m] 2022-06-15 22:23:42,399 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,399 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,400 BaseClass.only_three_records_displayed_in_one_page() - Three records per page is displayed when pagination number is clicked
-[[32mINFO [m] 2022-06-15 22:23:42,412 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
-[[32mINFO [m] 2022-06-15 22:23:42,412 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
-[[32mINFO [m] 2022-06-15 22:23:42,413 BaseClass.number_of_pages_containing_each_three_records_is_displayed() - Total number of pages in pagination is dispalyed
-[[32mINFO [m] 2022-06-15 22:23:42,456 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,457 BaseClass.user_clicks_search_button_without_entering_details() - User Clicks search Button
-[[32mINFO [m] 2022-06-15 22:23:42,457 BaseClass.records_of_all_users_are_displayed() - Verifying all the user records
-[[32mINFO [m] 2022-06-15 22:23:42,457 BaseClass.usersdataverfication() - All user records are displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,476 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,477 BaseClass.user_enters_valid_in_name_filter_box() - User enters valid name in name filter and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,477 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,477 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,491 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,491 BaseClass.user_enters_valid_in_email_filter_box() - User enters valid email address in email filter and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,492 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,492 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,506 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,506 BaseClass.user_enters_valid_in_phone_number_filter_box() - User enters valid phone number in phone filter and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,506 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,506 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,520 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,527 BaseClass.user_enters_valid_with_valid_in_name_and_phone_number_filter_boxes() - User enters valid name and phone number in name and phone number filter boxes and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,528 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,528 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,549 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,550 BaseClass.user_enters_valid_with_valid_in_name_and_email_filter_boxes() - User enters valid name and email address in name and email filter boxes and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,550 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,551 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,566 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,566 BaseClass.user_enters_valid_with_valid_in_email_and_phone_number_filter_boxes() - User enters valid email address and phone number in email and phone filter boxes and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,566 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
-[[32mINFO [m] 2022-06-15 22:23:42,566 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
-[[32mINFO [m] 2022-06-15 22:23:42,581 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,644 BaseClass.user_enters_invalid_phone_number_from_and_in_phone_number_filter_box() - User enter invalid phone number and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,645 BaseClass.error_message_is_displayed() - Error message validation
-[[32mINFO [m] 2022-06-15 22:23:42,645 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,665 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,683 BaseClass.user_enters_invalid_email_address_from_and_in_email_filter_box() - User enter invalid email address and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,683 BaseClass.error_message_is_displayed() - Error message validation
-[[32mINFO [m] 2022-06-15 22:23:42,683 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,706 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,723 BaseClass.user_enters_invalid_name_from_and_in_name_filter_box() - User enter invalid email address and clicks search
-[[32mINFO [m] 2022-06-15 22:23:42,723 BaseClass.error_message_is_displayed() - Error message validation
-[[32mINFO [m] 2022-06-15 22:23:42,723 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,737 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,737 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,737 BaseClass.table_header_should_display_number_of_items_found() - Table header diaplays 5 items found, displaying 1 to 5
-[[32mINFO [m] 2022-06-15 22:23:42,750 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,750 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,750 BaseClass.columntableverification() - Patient data table dispalys columns name Record Number, Cust ID, Name, Details, Last Visit and Actions
-[[32mINFO [m] 2022-06-15 22:23:42,762 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
-[[32mINFO [m] 2022-06-15 22:23:42,763 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
-[[32mINFO [m] 2022-06-15 22:23:42,763 BaseClass.actioncolumnbuttonvalidation() - Action column displays View Previous Test Report, View Previous Diet Plans, Create New Report or Plan buttons
-[[32mINFO [m] 2022-06-15 22:23:42,777 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,778 BaseClass.user_clicks_link() - User clicks on Log in here Link
-[[32mINFO [m] 2022-06-15 22:23:42,778 BaseClass.user_is_re_directed_to_sign_in_page() - User redirected to Sign In page
-[[32mINFO [m] 2022-06-15 22:23:42,793 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:42,793 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,793 BaseClass.user_should_see_all_mandatory_flields_for_register_page_with_star_symbol_on_top_of_those_fields() - Verify Mandatory fields
-[[32mINFO [m] 2022-06-15 22:23:42,793 BaseClass.testMandatoryFieldValidation() - Mandatory fields are username, password textboxes
-[[32mINFO [m] 2022-06-15 22:23:42,810 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:42,811 BaseClass.user_lands_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,811 BaseClass.user_should_see_a_form_with_heading_to_sign_up_using_mobile_number() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:42,824 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:42,824 BaseClass.user_lands_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,829 BaseClass.user_should_see_a_button_with_text_in_the_sign_up_form() - Verify SIGN UP button
-[[32mINFO [m] 2022-06-15 22:23:42,857 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,861 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_all_fields_empty() - User click SIGN UP btn with all fields empty
-[[32mINFO [m] 2022-06-15 22:23:42,862 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,862 BaseClass.user_should_see_a_message() - Mandatory fields cannot be empty
-[[32mINFO [m] 2022-06-15 22:23:42,877 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,877 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_first_name_valid_values_for_the_remaining_fields() - Invalid data entered for First Name
-[[32mINFO [m] 2022-06-15 22:23:42,878 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,878 BaseClass.user_should_see_a_message() - Invalid data entered for First Name
-[[32mINFO [m] 2022-06-15 22:23:42,892 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,894 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_last_name_valid_values_for_the_remaining_fields() - Invalid data entered for Last Name
-[[32mINFO [m] 2022-06-15 22:23:42,902 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,902 BaseClass.user_should_see_a_message() - Invalid data entered for Last Name
-[[32mINFO [m] 2022-06-15 22:23:42,916 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,918 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_aphanumeric_text_for_mobile_number_valid_values_for_the_remaining_fields() - Invalid data entered for Mobile Number
-[[32mINFO [m] 2022-06-15 22:23:42,919 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,919 BaseClass.user_should_see_a_message() - Invalid data entered for Mobile Number
-[[32mINFO [m] 2022-06-15 22:23:42,933 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,933 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_any_other_field_valid_values_for_the_remaining_fields() - Invalid data entered for Any other field
-[[32mINFO [m] 2022-06-15 22:23:42,933 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,933 BaseClass.user_should_see_a_message() - Invalid data entered for Any other field
-[[32mINFO [m] 2022-06-15 22:23:42,948 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,949 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_invalid_email_id_for_email_valid_values_for_the_remaining_fields() - Invalid data entered for Email
-[[32mINFO [m] 2022-06-15 22:23:42,949 BaseClass.user_should_see_a_message_invalid_data_entered_for_email() - Invalid data entered for Email
-[[32mINFO [m] 2022-06-15 22:23:42,969 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,971 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_invalid_password_valid_values_for_the_remaining_fields() - Invalid data entered for Password
-[[32mINFO [m] 2022-06-15 22:23:42,972 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:42,972 BaseClass.user_should_see_a_message() - Invalid data entered for Password
-[[32mINFO [m] 2022-06-15 22:23:42,988 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:42,988 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_valid_values_for_the_all_fields() - User clicks sign in page
-[[32mINFO [m] 2022-06-15 22:23:42,988 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to SignIn page
-[[32mINFO [m] 2022-06-15 22:23:43,011 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,012 BaseClass.user_lands_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,012 BaseClass.user_should_see_a_form_with_heading_to_sign_up_using_email_id() - Verify Sign up with your email header
-[[32mINFO [m] 2022-06-15 22:23:43,027 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,028 BaseClass.user_lands_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,028 BaseClass.user_should_see_a_button_with_text_in_the_sign_up_with_your_email_form() - Verify Sign Up button
-[[32mINFO [m] 2022-06-15 22:23:43,042 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,043 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_with_all_fields_empty() - Mandatory fields cannot be empty
-[[32mINFO [m] 2022-06-15 22:23:43,043 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:43,043 BaseClass.user_should_see_a_message() - Mandatory fields cannot be empty
-[[32mINFO [m] 2022-06-15 22:23:43,057 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,058 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_by_entering_numeric_text_for_first_name_valid_values_for_the_remaining_fields() - Invalid data entered for First Name
-[[32mINFO [m] 2022-06-15 22:23:43,058 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:43,058 BaseClass.user_should_see_a_message() - Invalid data entered for First Name
-[[32mINFO [m] 2022-06-15 22:23:43,080 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,081 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_numeric_text_for_last_name_valid_values_for_the_remaining_fields() - Invalid data entered for Last Name
-[[32mINFO [m] 2022-06-15 22:23:43,082 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:43,082 BaseClass.user_should_see_a_message() - Invalid data entered for Last Name
-[[32mINFO [m] 2022-06-15 22:23:43,098 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,099 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_numeric_text_for_username_valid_values_for_the_remaining_fields() - Invalid data entered for Username
-[[32mINFO [m] 2022-06-15 22:23:43,099 BaseClass.user_should_see_a_message() - Invalid data entered for Email Address
-[[32mINFO [m] 2022-06-15 22:23:43,114 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,115 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_invalid_email_id_for_email_address_valid_values_for_the_remaining_fields() - Invalid data entered for Email Address
-[[32mINFO [m] 2022-06-15 22:23:43,115 BaseClass.user_should_see_a_message_invalid_data_entered_for_email_address() - Invalid data entered for Email Address
-[[32mINFO [m] 2022-06-15 22:23:43,128 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,128 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_invalid_password_valid_values_for_the_remaining_fields() - Invaild Password
-[[32mINFO [m] 2022-06-15 22:23:43,129 BaseClass.user_should_see_a_message() - File uploaded succesfully
-[[32mINFO [m] 2022-06-15 22:23:43,129 BaseClass.user_should_see_a_message() - Invalid Password
-[[32mINFO [m] 2022-06-15 22:23:43,144 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,146 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_a_value_that_is_different_than_the_password_field_value_valid_values_for_the_remaining_fields() - Confirm Password should same as Password
-[[32mINFO [m] 2022-06-15 22:23:43,146 BaseClass.user_should_see_a_message() - Invalid data entered for Email Address
-[[32mINFO [m] 2022-06-15 22:23:43,159 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,160 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_by_entering_valid_values_for_the_all_fields() - User is redirected to SignIn page
-[[32mINFO [m] 2022-06-15 22:23:43,160 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to SignIn page
-[[32mINFO [m] 2022-06-15 22:23:43,178 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,179 BaseClass.user_clicks_facebook_button_in_the_sign_up_with_your_email_form() - User clicks on Facebook Button
-[[32mINFO [m] 2022-06-15 22:23:43,179 BaseClass.user_successfully_login_with_facebook_account() - User redirected to facebook login page
-[[32mINFO [m] 2022-06-15 22:23:43,193 BaseClass.user_is_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,193 BaseClass.user_clicks_google_button_in_the_sign_up_with_your_email_form() - User clicks on Google Button
-[[32mINFO [m] 2022-06-15 22:23:43,194 BaseClass.user_successfully_login_with_google_account() - User redirected to Google login page
-[[32mINFO [m] 2022-06-15 22:23:43,207 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,207 BaseClass.user_lands_on_register_page() - User is on Register page
-[[32mINFO [m] 2022-06-15 22:23:43,208 BaseClass.user_should_see_the_title_of_the_page_as() - User is not in HomePage
-[[32mINFO [m] 2022-06-15 22:23:43,221 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,221 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,221 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,221 BaseClass.user_should_see_all_mandatory_flields_with_star_symbol_on_top_of_those_fields() - Verify Mandatory fields
-[[32mINFO [m] 2022-06-15 22:23:43,221 BaseClass.testMandatoryFieldValidation() - Mandatory fields are username, password textboxes
-[[32mINFO [m] 2022-06-15 22:23:43,234 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,235 BaseClass.user_click_on_icon_symbol_on_sign_in_page() - Verify and click Signin icon
-[[32mINFO [m] 2022-06-15 22:23:43,235 BaseClass.user_click_on_icon_symbol_on_sign_in_page() - User clicked SignIn icon
-[[32mINFO [m] 2022-06-15 22:23:43,236 BaseClass.user_should_see_the_title_of_the_page_as() - Verify signin page title
-[[32mINFO [m] 2022-06-15 22:23:43,236 BaseClass.verifyPageTitle() - User Signin successfully
-[[32mINFO [m] 2022-06-15 22:23:43,250 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,251 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
-[[32mINFO [m] 2022-06-15 22:23:43,251 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
-[[32mINFO [m] 2022-06-15 22:23:43,251 BaseClass.user_redirected_to_form_with_heading() - Verify Login with email page header
-[[32mINFO [m] 2022-06-15 22:23:43,251 BaseClass.verifyPageHeader() - Verified 'Login with email' page header
-[[32mINFO [m] 2022-06-15 22:23:43,272 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,273 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
-[[32mINFO [m] 2022-06-15 22:23:43,273 BaseClass.user_should_see_a_button_with_text_in_the_sign_in_form() - Verify Login button
-[[32mINFO [m] 2022-06-15 22:23:43,288 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,289 BaseClass.user_clicks_log_in_button_with_all_fields_empty() - User click login btn with all fields empty
-[[32mINFO [m] 2022-06-15 22:23:43,289 BaseClass.user_gets_error_message() - User should get error message
-[[32mINFO [m] 2022-06-15 22:23:43,289 BaseClass.invalidLogin() - Invalid login credentials
-[[32mINFO [m] 2022-06-15 22:23:43,304 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,305 BaseClass.user_clicks_log_in_button_with_invalid_email_and_valid_password() - User clicks login with invalid email and valid password
-[[32mINFO [m] 2022-06-15 22:23:43,305 BaseClass.user_should_see_message() - Please fill with valid email id
-[[32mINFO [m] 2022-06-15 22:23:43,322 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,322 BaseClass.user_clicks_log_in_button_with_valid_email_and_invalid_password() - User clicks login with valid email and invalid password
-[[32mINFO [m] 2022-06-15 22:23:43,322 BaseClass.user_gets_a_message() - Invalid Password.Pleasetry again
-[[32mINFO [m] 2022-06-15 22:23:43,338 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,339 BaseClass.user_clicks_log_in_button_with_valid_email_and_empty_password() - User clicks login btn with valid email and empty password
-[[32mINFO [m] 2022-06-15 22:23:43,339 BaseClass.user_gets_a_message() - Please fill the password
-[[32mINFO [m] 2022-06-15 22:23:43,354 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,355 BaseClass.user_clicks_log_in_with_both_invalid_email_and_password() - User clicks login with valid email and invalid password
-[[32mINFO [m] 2022-06-15 22:23:43,355 BaseClass.user_gets_a_message() - Invalid Login credentials
-[[32mINFO [m] 2022-06-15 22:23:43,368 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,368 BaseClass.user_clicks_log_in_with_both_valid_email_and_password() - User clicks login with valid email and invalid password
-[[32mINFO [m] 2022-06-15 22:23:43,368 BaseClass.user_gets_a_message() - logged in successfully
-[[32mINFO [m] 2022-06-15 22:23:43,381 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,381 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,381 BaseClass.user_clicks_on_forgot_password_link() - User click forgot password field
-[[32mINFO [m] 2022-06-15 22:23:43,381 BaseClass.user_should_be_directed_to_page() - User redirect to Reset password page
-[[32mINFO [m] 2022-06-15 22:23:43,394 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,394 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,394 BaseClass.user_clicks_button_to_log_in() - User clicks Facebook button to log in
-[[32mINFO [m] 2022-06-15 22:23:43,394 BaseClass.user_is_redirected_to_facebook_login_page() - User redirected to facebook login page
-[[32mINFO [m] 2022-06-15 22:23:43,407 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,407 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,407 BaseClass.user_clicks_button_to_log_in() - User clicks Google button to log in
-[[32mINFO [m] 2022-06-15 22:23:43,407 BaseClass.user_is_redirected_to_google_log_in_page() - User redirected to google login page
-[[32mINFO [m] 2022-06-15 22:23:43,420 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,420 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,420 BaseClass.user_clicks_sign_up_link() - User clicks sign up link
-[[32mINFO [m] 2022-06-15 22:23:43,421 BaseClass.user_is_redirected_to_register_page() - User redirected to Register page
-[[32mINFO [m] 2022-06-15 22:23:43,435 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,435 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
-[[32mINFO [m] 2022-06-15 22:23:43,435 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
-[[32mINFO [m] 2022-06-15 22:23:43,435 BaseClass.user_should_see_a_form_with_heading() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,448 BaseClass.user_is_on_dietician_website() - User is on dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,448 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
-[[32mINFO [m] 2022-06-15 22:23:43,448 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
-[[32mINFO [m] 2022-06-15 22:23:43,448 BaseClass.user_should_see_a_button_with_text() - Verify signin button
-[[32mINFO [m] 2022-06-15 22:23:43,466 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,467 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,467 BaseClass.user_clicks_sign_in_button_in_the_sign_in_form_with_all_fields_empty() - User click signin btn with all fields empty
-[[32mINFO [m] 2022-06-15 22:23:43,467 BaseClass.user_should_get_error_message() - User should get error message
-[[32mINFO [m] 2022-06-15 22:23:43,467 BaseClass.invalidLogin() - Invalid login credentials
-[[32mINFO [m] 2022-06-15 22:23:43,481 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,481 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,481 BaseClass.user_clicks_sign_in_button_entering_numeric_values_for_username_and_valid_values_for_password() - User enter numeric values for username and valid password
-[[32mINFO [m] 2022-06-15 22:23:43,481 BaseClass.user_should_get_a_message_invalid_entry_for_first_field() - Invalid entry for username field
-[[32mINFO [m] 2022-06-15 22:23:43,482 BaseClass.loginFaied() - Username and Password is invalid
-[[32mINFO [m] 2022-06-15 22:23:43,494 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,494 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,495 BaseClass.user_clicks_sign_in_button_entering_extra_length_of_password() - password length exist the limit
-[[32mINFO [m] 2022-06-15 22:23:43,495 BaseClass.user_should_get_a_message_invalid_entry_for_password_field() - Invalid entry for username field
-[[32mINFO [m] 2022-06-15 22:23:43,495 BaseClass.loginFaied() - Username and Password is invalid
-[[32mINFO [m] 2022-06-15 22:23:43,507 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,508 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,508 BaseClass.user_clicks_sign_in_button_entering_invalid_values_for_both_fields_and() - Invalid username and password
-[[32mINFO [m] 2022-06-15 22:23:43,508 BaseClass.user_should_get_error_message() - User should get error message
-[[32mINFO [m] 2022-06-15 22:23:43,509 BaseClass.invalidLogin() - Invalid login credentials
-[[32mINFO [m] 2022-06-15 22:23:43,522 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,522 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,522 BaseClass.user_clicks_on_forgot_password_link() - User click forgot password field
-[[32mINFO [m] 2022-06-15 22:23:43,522 BaseClass.user_should_be_directed_to_page() - User redirect to Reset password page
-[[32mINFO [m] 2022-06-15 22:23:43,536 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,536 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,536 BaseClass.user_clicks_on_not_member_yet_button() - User launch not a member page
-[[32mINFO [m] 2022-06-15 22:23:43,536 BaseClass.user_will_land_on_register_page() - User launch on register page
-[[32mINFO [m] 2022-06-15 22:23:43,551 BaseClass.user_is_on_sign_in_page() - Verify signin page header
-[[32mINFO [m] 2022-06-15 22:23:43,551 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
-[[32mINFO [m] 2022-06-15 22:23:43,551 BaseClass.user_clicks_sign_in_with_all_field_entered_and() - User entered valid username and password
-[[32mINFO [m] 2022-06-15 22:23:43,551 BaseClass.user_logged_in_successfully() - User logged in succesffully
-[[32mINFO [m] 2022-06-15 22:23:43,552 BaseClass.loginSuccess() - User logged in succesffully
-[[32mINFO [m] 2022-06-15 22:23:43,566 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,567 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
-[[32mINFO [m] 2022-06-15 22:23:43,567 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:43,567 BaseClass.user_should_see_the_heading_on_the_page() - Verify page heading
-[[32mINFO [m] 2022-06-15 22:23:43,567 BaseClass.verifyPageheading() - Validating heading failed
-[[32mINFO [m] 2022-06-15 22:23:43,580 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,580 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
-[[32mINFO [m] 2022-06-15 22:23:43,580 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:43,581 BaseClass.user_should_see_that_diet_plans_tab_on_the_menu_bar_is_selected() - Diet Plans tab on the menu bar is visible
-[[32mINFO [m] 2022-06-15 22:23:43,594 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,595 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
-[[32mINFO [m] 2022-06-15 22:23:43,595 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:43,595 BaseClass.view_pdf_option_is_available_for_the_generated_diet_plans() - View PDF is visible
-[[32mINFO [m] 2022-06-15 22:23:43,608 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
-[[32mINFO [m] 2022-06-15 22:23:43,608 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
-[[32mINFO [m] 2022-06-15 22:23:43,608 BaseClass.verifyPageTitle() - Validating page Title not successfully
-[[32mINFO [m] 2022-06-15 22:23:43,609 BaseClass.view_record_number_plan_id_customer_details_plangenerated_time_comments_available_for_the_generated_diet_plans() - Record Number, Plan ID, Customer Details, Plan Generated time, Comments fields visible
+[[32mINFO [m] 2022-06-16 00:27:42,019 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,029 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,030 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,042 BaseClass.user_should_see_a_button_with_name_on_the_page() - Verify button with name browse
+[[32mINFO [m] 2022-06-16 00:27:42,042 BaseClass.verifyBrowseBtn() - Verify Browse button and text not visibile
+[[32mINFO [m] 2022-06-16 00:27:42,152 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,157 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,157 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,161 BaseClass.user_should_see_a_tool_tip_for_the_browse_button() - Tooltip of Inputfield visibile
+[[32mINFO [m] 2022-06-16 00:27:42,216 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,216 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,218 BaseClass.user_clicks_the_browse_button_and_selects_a_document() - User clicks the Browse button and selects a document
+[[32mINFO [m] 2022-06-16 00:27:42,220 BaseClass.user_should_see_the_selected_document_in_the_field_next_to_the_browse_button_on_the_page() - User can see selected document
+[[32mINFO [m] 2022-06-16 00:27:42,269 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,271 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,271 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,282 BaseClass.user_should_see_a_button_with_text_at_the_bottom_of_the_page() - Validating the GenerateMenu button text not visibile
+[[32mINFO [m] 2022-06-16 00:27:42,316 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,316 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,337 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
+[[32mINFO [m] 2022-06-16 00:27:42,338 BaseClass.new_diet_plan_should_be_generated_with_the_latest_confirmed_health_conditions() - New Diet plan should be generated with the latest confirmed Health conditions
+[[32mINFO [m] 2022-06-16 00:27:42,371 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,371 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,373 BaseClass.user_clicks_the_generate_menu_button() - Validating the GenerateMenu button operation
+[[32mINFO [m] 2022-06-16 00:27:42,375 BaseClass.user_should_land_on_page() - User not on Generated Diet Plans Page
+[[32mINFO [m] 2022-06-16 00:27:42,411 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,411 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,411 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,413 BaseClass.user_sees_the_heading_on_the_page() - Verify page heading
+[[32mINFO [m] 2022-06-16 00:27:42,413 BaseClass.verifyPageheading() - Validating heading failed
+[[32mINFO [m] 2022-06-16 00:27:42,447 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,447 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,447 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,452 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
+[[32mINFO [m] 2022-06-16 00:27:42,452 BaseClass.user_should_see_option1_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
+[[32mINFO [m] 2022-06-16 00:27:42,479 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,479 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,479 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,480 BaseClass.user_should_see_a_button_with_text_in_option1_menu() - Validating the Confirm1 button text not visibile
+[[32mINFO [m] 2022-06-16 00:27:42,507 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,508 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,508 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,509 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options visible
+[[32mINFO [m] 2022-06-16 00:27:42,510 BaseClass.user_can_update_the_health_conditions_in_option1_menu() - Validating the Confirm1 options click
+[[32mINFO [m] 2022-06-16 00:27:42,546 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,547 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,548 BaseClass.user_clicks_the_confirm_button_in_option1_menu() - Validating the Confirm1 options click
+[[32mINFO [m] 2022-06-16 00:27:42,548 BaseClass.user_cannot_update_the_health_conditions_in_option1_menu() - Confirm1 options Saved and can be changed
+[[32mINFO [m] 2022-06-16 00:27:42,616 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,619 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,619 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,624 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button visible
+[[32mINFO [m] 2022-06-16 00:27:42,624 BaseClass.user_should_see_option2_menu_to_update_the_health_conditions() - Validating the Confirm1 button not visible
+[[32mINFO [m] 2022-06-16 00:27:42,711 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,712 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,712 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,718 BaseClass.user_should_see_a_button_with_text_in_option2_menu() - Validating the Confirm2 button text not visibile
+[[32mINFO [m] 2022-06-16 00:27:42,768 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,769 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,769 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,770 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options visible
+[[32mINFO [m] 2022-06-16 00:27:42,770 BaseClass.user_can_update_the_health_conditions_in_option2_menu() - Validating the Confirm2 options click
+[[32mINFO [m] 2022-06-16 00:27:42,808 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,809 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,813 BaseClass.user_clicks_the_confirm_button_in_option2() - Validating the Confirm2 options click
+[[32mINFO [m] 2022-06-16 00:27:42,813 BaseClass.user_cannot_update_the_health_conditions_in_option2_menu() - Confirm1 options Saved and can be changed
+[[32mINFO [m] 2022-06-16 00:27:42,865 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:42,866 BaseClass.user_lands_on_page() - User on Create Plan page Title check
+[[32mINFO [m] 2022-06-16 00:27:42,866 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:42,868 BaseClass.user_should_see_a_button_with_name_upload_on_the_page() - Verify button with name upload
+[[32mINFO [m] 2022-06-16 00:27:42,869 BaseClass.verifyUploadBtn() - Verify upload button and text not visibile
+[[32mINFO [m] 2022-06-16 00:27:42,899 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,900 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,901 BaseClass.user_clicks_upload_button() - User clicks upload button 
+[[32mINFO [m] 2022-06-16 00:27:42,902 BaseClass.user_should_be_able_to_upload_file() - User should be able to upload file 
+[[32mINFO [m] 2022-06-16 00:27:42,927 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:42,927 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:42,928 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Upload button without selecting a document
+[[32mINFO [m] 2022-06-16 00:27:42,928 BaseClass.user_clicks_the_upload_button_without_selecting_a_document() - Document selected
+[[32mINFO [m] 2022-06-16 00:27:42,929 BaseClass.user_should_see_an_error_message() - User should see an error message
+[[32mINFO [m] 2022-06-16 00:27:42,929 BaseClass.user_should_see_an_error_message() - Only files with extension .pdf are allowed
+[[32mINFO [m] 2022-06-16 00:27:43,000 BaseClass.verifyPageTitle() - User not on Confirm Conditions and Create Plan Page
+[[32mINFO [m] 2022-06-16 00:27:43,000 BaseClass.user_is_on_page() - User is on Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:43,004 BaseClass.user_clicks_the_upload_button_by_selecting_a_pdf_file_of_size_less_than_2mb() - Uploading PDF file of size less than 2MB
+[[32mINFO [m] 2022-06-16 00:27:43,005 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:43,005 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:43,075 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:43,077 BaseClass.user_wants_to_enter_new_patient_details() - User wants to enter patient details
+[[32mINFO [m] 2022-06-16 00:27:43,078 BaseClass.patient_data_from_is_visible() - Patient form header is visible
+[[32mINFO [m] 2022-06-16 00:27:43,120 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:43,121 BaseClass.user_attempts_to_submit_the_form_without_filling_up_mandatory_fields_from_sheetname() - User fill the form without entering mandatory fields
+[[32mINFO [m] 2022-06-16 00:27:44,204 BaseClass.unable_to_update_and_display_error_message() - Please fillup all the mandatory fields
+[[32mINFO [m] 2022-06-16 00:27:44,267 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:44,268 BaseClass.user_attempts_to_put_numeric_value_in_full_name_field_from_sheetname() - User enters numeric value in full name field
+[[32mINFO [m] 2022-06-16 00:27:44,466 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
+[[32mINFO [m] 2022-06-16 00:27:44,542 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:44,543 BaseClass.user_does_not_put_space_in_between_first_name_and_last_name_for_full_name_field_from_sheetname() - User enters full name without space
+[[32mINFO [m] 2022-06-16 00:27:44,675 BaseClass.unable_to_enter_and_show_error_message() - First and Last Name should have space in between
+[[32mINFO [m] 2022-06-16 00:27:44,707 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:44,707 BaseClass.user_attempts_to_submit_the_form_without_filling_up_full_name_field_from_sheetname() - User leaves full name as empty
+[[32mINFO [m] 2022-06-16 00:27:44,835 BaseClass.unable_to_enter_and_show_error_message() - Please enter Full Name
+[[32mINFO [m] 2022-06-16 00:27:44,858 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:44,859 BaseClass.user_does_not_enter_any_value_in_addess_linel_field_from_sheetname() - User leaves Addess line l as empty
+[[32mINFO [m] 2022-06-16 00:27:45,000 BaseClass.unable_to_enter_and_show_error_message() - Please enter Addess line 1
+[[32mINFO [m] 2022-06-16 00:27:45,026 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:45,027 BaseClass.user_submit_the_form_without_selecting_any_value_for_country_field_from_sheetname() - User leaves country field as empty
+[[32mINFO [m] 2022-06-16 00:27:45,095 BaseClass.unable_to_enter_and_show_error_message() - Please select Country from dropdown
+[[32mINFO [m] 2022-06-16 00:27:45,118 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:45,118 BaseClass.user_attempts_to_put_numeric_value_in_city_field_from_sheetname() - User enters numeric value in city field
+[[32mINFO [m] 2022-06-16 00:27:45,234 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
+[[32mINFO [m] 2022-06-16 00:27:45,252 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:45,253 BaseClass.user_attempts_to_submit_the_form_without_filling_up_city_field_from_sheetname() - User leaves city as empty
+[[32mINFO [m] 2022-06-16 00:27:45,351 BaseClass.unable_to_enter_and_show_error_message() - Please enter City
+[[32mINFO [m] 2022-06-16 00:27:45,373 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:45,374 BaseClass.user_attempts_to_put_numeric_value_in_state_province_or_region_field_from_sheetname() - User enters numeric value in State field
+[[32mINFO [m] 2022-06-16 00:27:45,588 BaseClass.unable_to_enter_and_show_error_message() - Only characters are allowed
+[[32mINFO [m] 2022-06-16 00:27:45,680 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:45,691 BaseClass.user_attempts_to_submit_the_form_without_filling_up_state_province_or_region_field_from_sheetname() - User leaves state as empty
+[[32mINFO [m] 2022-06-16 00:27:46,064 BaseClass.unable_to_enter_and_show_error_message() - Please enter State, province or region
+[[32mINFO [m] 2022-06-16 00:27:46,112 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,117 BaseClass.user_attempts_to_submit_the_form_without_filling_up_postal_code_field_from_sheetname() - User leaves postal code as empty
+[[32mINFO [m] 2022-06-16 00:27:46,223 BaseClass.unable_to_enter_and_show_error_message() - Please enter Postal code
+[[32mINFO [m] 2022-06-16 00:27:46,242 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,243 BaseClass.user_entered_not_supported_data_format_in_postal_code_field_from_sheetname() - User enters string in postal code
+[[32mINFO [m] 2022-06-16 00:27:46,319 BaseClass.unable_to_enter_and_show_error_message() - Invalid Postal code format
+[[32mINFO [m] 2022-06-16 00:27:46,342 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,343 BaseClass.user_does_not_enter_any_value_in_email_field_from_sheetname() - User leaves email as empty
+[[32mINFO [m] 2022-06-16 00:27:46,426 BaseClass.unable_to_enter_and_show_error_message() - Please enter Email
+[[32mINFO [m] 2022-06-16 00:27:46,450 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,451 BaseClass.user_entered_not_supported_data_format_in_email_field_from_sheetname() - User enter invalid email format
+[[32mINFO [m] 2022-06-16 00:27:46,451 BaseClass.unable_to_enter_and_show_error_message() - Invalid email format
+[[32mINFO [m] 2022-06-16 00:27:46,468 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,469 BaseClass.user_attempts_to_put_characters_in_phone_number_field_from_sheetname() - User enter character in phone no field
+[[32mINFO [m] 2022-06-16 00:27:46,469 BaseClass.unable_to_enter_and_show_error_message() - Only Numeric values are allowed
+[[32mINFO [m] 2022-06-16 00:27:46,493 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,493 BaseClass.user_attempts_to_submit_the_form_without_filling_up_phone_number_field_from_sheetname() - User leaves phone no as empty
+[[32mINFO [m] 2022-06-16 00:27:46,562 BaseClass.unable_to_enter_and_show_error_message() - Please enter Phone number
+[[32mINFO [m] 2022-06-16 00:27:46,589 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,590 BaseClass.user_fills_up_the_form_with_valid_data_inputs_from_sheetname() - User enter valid data inside all fields in the form
+[[32mINFO [m] 2022-06-16 00:27:46,635 BaseClass.user_can_see_button() - Update Button dispalyed
+[[32mINFO [m] 2022-06-16 00:27:46,663 BaseClass.user_is_on_the_add_new_patient_page() - User is on Add new patient page
+[[32mINFO [m] 2022-06-16 00:27:46,663 BaseClass.user_clicks_on_the_add_new_patient_button_after_entering_valid_patient_data() - User click update button after entering field values
+[[32mINFO [m] 2022-06-16 00:27:46,664 BaseClass.user_lands_on_my_patients_page_with_the_details_displayed() - User redirected to New Patient page
+[[32mINFO [m] 2022-06-16 00:27:46,720 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,721 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,721 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,723 BaseClass.user_can_see_the_home_tab_on_header_menu() - Verify Home menu
+[[32mINFO [m] 2022-06-16 00:27:46,746 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,746 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,746 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,747 BaseClass.user_can_see_the_new_patient_tab_from_the_header_menu() - Verify New Patient menu
+[[32mINFO [m] 2022-06-16 00:27:46,762 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,762 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,762 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,763 BaseClass.user_can_see_the_my_patient_tab_from_the_header_menu() - Verify My Patient menu
+[[32mINFO [m] 2022-06-16 00:27:46,780 BaseClass.user_is_on_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,780 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,780 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,780 BaseClass.user_can_see_the_diet_plans_tab_from_the_header_menu() - Verify My Patient menu
+[[32mINFO [m] 2022-06-16 00:27:46,809 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,810 BaseClass.user_selects_new_patient_tab() - User selects new patient tab
+[[32mINFO [m] 2022-06-16 00:27:46,810 BaseClass.user_lands_on_new_patient_page() - Verify New Patient page title
+[[32mINFO [m] 2022-06-16 00:27:46,810 BaseClass.verifyNewPatientPageTitle() - Verified 'New Patient' page title
+[[32mINFO [m] 2022-06-16 00:27:46,834 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,835 BaseClass.user_selects_my_patient_tab() - User selects my patient tab
+[[32mINFO [m] 2022-06-16 00:27:46,835 BaseClass.user_lands_on_my_patient_page() - Verify My patient page title
+[[32mINFO [m] 2022-06-16 00:27:46,854 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,855 BaseClass.user_selects_diet_plans_tab() - User selects Diet Plans tab
+[[32mINFO [m] 2022-06-16 00:27:46,855 BaseClass.user_lands_on_diet_plans_page() - Verify Diet Plan page title
+[[32mINFO [m] 2022-06-16 00:27:46,855 BaseClass.verifyDietPlanPageTitle() - Verified 'My Patient' page title
+[[32mINFO [m] 2022-06-16 00:27:46,875 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,876 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,876 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,877 BaseClass.user_can_see_banner_or_announcements_section_in_right_side_bar() - Verify Banner or Announcements section
+[[32mINFO [m] 2022-06-16 00:27:46,893 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,894 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,894 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,894 BaseClass.user_can_see_logged_in_as_message_in_top_of_right_side_bar() - Display dietician name
+[[32mINFO [m] 2022-06-16 00:27:46,917 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,918 BaseClass.user_logged_in_successfully_to_the_dietician_website() - Verify Dietician Home page title
+[[32mINFO [m] 2022-06-16 00:27:46,918 BaseClass.verifyDieticianHomePageTitle() - Verified 'Dietician Home' page title
+[[32mINFO [m] 2022-06-16 00:27:46,919 BaseClass.user_can_read_dietician_home_page_image_and_content() - Verify page image and content
+[[32mINFO [m] 2022-06-16 00:27:46,953 BaseClass.user_is_on_the_dietician_home_page() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:46,953 BaseClass.user_can_see_button_after_successful_login() - Verify SIGN OUT button after login
+[[32mINFO [m] 2022-06-16 00:27:46,954 BaseClass.user_can_click_on_button_for_logging_off_successfully() - User SIGN OUT Successfully
+[[32mINFO [m] 2022-06-16 00:27:47,004 BaseClass.user_is_directed_to_about_page() - User is not in AboutPage
+[[32mINFO [m] 2022-06-16 00:27:47,043 BaseClass.user_is_directed_to_blogs_page() - User is not in BlogsPage
+[[32mINFO [m] 2022-06-16 00:27:47,072 BaseClass.user_is_re_directed_to_client_testimonial_page() - User is not in ClientPage
+[[32mINFO [m] 2022-06-16 00:27:47,096 BaseClass.user_is_directed_to_contact_us_page() - User is not in ContactPage
+[[32mINFO [m] 2022-06-16 00:27:47,126 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,129 BaseClass.user_should_get_a_message_please_fill_all_fields_above() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,147 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,150 BaseClass.user_should_get_a_message_please_fill_first_name_with_charactersof_maximum_ten_characters_long() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,173 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,174 BaseClass.user_should_get_a_message_please_fill_last_name_with_charactersof_maximum_ten_characters_long() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,202 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,207 BaseClass.user_should_get_a_message_please_fill_email_field_with_character_numeric_and_special_character_combinations() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,224 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,226 BaseClass.user_should_get_a_message_please_fill_subject_field_with_some_chacters_of_maximum_twenty_letters_length() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,244 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,244 BaseClass.user_should_get_a_message_please_fill_write_your_message_here_field_with_alphabet_characters_of_maximum_two_hundred_length() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,269 BaseClass.user_is_on_page() - User is not in ContactUsPage
+[[32mINFO [m] 2022-06-16 00:27:47,270 BaseClass.user_should_get_a_message_your_request_is_submitted() - Message is visible
+[[32mINFO [m] 2022-06-16 00:27:47,294 BaseClass.user_is_directed_to_featured_content_page() - User is not in FeaturedPage
+[[32mINFO [m] 2022-06-16 00:27:47,319 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,319 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,320 BaseClass.user_should_see_a_logo_image_with_the_company_name_on_the_home_page() - Logo is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,344 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,344 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,345 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,364 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,365 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,386 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,386 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,387 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,387 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,387 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,387 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,388 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,389 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,389 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,406 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,407 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,430 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,430 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,430 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,430 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,430 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,431 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,431 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,431 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,431 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,445 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,445 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,446 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,462 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,463 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,464 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,482 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,483 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.ProductVisibility() - Product is Visible in the Home Page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.ClientsVisibility() - Clients is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.TeamVisibility() - Team is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.RegisterVisibility() - Register is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.AboutVisibility() - About is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.FeaturedVisibility() - Featured is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,484 BaseClass.BlogVisibility() - Blog is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,501 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,502 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,502 BaseClass.user_should_see_a_search_option_symbol_on_the_bottom_menu_bar_of_the_home_page() - SearchIcon is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,517 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,519 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,519 BaseClass.user_should_see_a_signin_option_next_to_the_search_button_on_the_bottom_menu_bar_of_the_home_page() - SignIn Button is Visible in the Home page
+[[32mINFO [m] 2022-06-16 00:27:47,538 BaseClass.user_is_re_directed_to_product_page() - User is not in ProductPage
+[[32mINFO [m] 2022-06-16 00:27:47,556 BaseClass.user_is_directed_to_register_page() - User is not in RegisterPage
+[[32mINFO [m] 2022-06-16 00:27:47,572 BaseClass.user_is_directed_to_doctor_team_page() - User is not in TeamPage
+[[32mINFO [m] 2022-06-16 00:27:47,592 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,593 BaseClass.user_lands_on() - User is not in TeamPage
+[[32mINFO [m] 2022-06-16 00:27:47,593 BaseClass.user_should_see_default_three_doctor_names_on_first_page() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,611 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,612 BaseClass.user_lands_on() - User is not in TeamPage
+[[32mINFO [m] 2022-06-16 00:27:47,612 BaseClass.user_should_see_default_three_doctor_names_on_first_page() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,628 BaseClass.user_is_on_of_team() - User is not in TeamPage
+[[32mINFO [m] 2022-06-16 00:27:47,629 BaseClass.user_should_be_directed_to_next_doctor_names_on_team_page() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,650 BaseClass.user_is_on_of_team() - User is not in TeamPage
+[[32mINFO [m] 2022-06-16 00:27:47,650 BaseClass.user_lands_on_last_page_of_team() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,651 BaseClass.next_button_should_be_disabled() - Button is enabled
+[[32mINFO [m] 2022-06-16 00:27:47,668 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,669 BaseClass.user_lands_on_first_page_of_team() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,669 BaseClass.previous_button_should_be_disabled() - Button is enabled
+[[32mINFO [m] 2022-06-16 00:27:47,684 BaseClass.user_is_on_second_page_of_team() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,684 BaseClass.user_should_be_directed_to_previous_names_of_doctor() - Doctor's Names are Visible in the Team page
+[[32mINFO [m] 2022-06-16 00:27:47,700 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,701 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,702 BaseClass.user_should_see_the_title_of_the_page_as() - User is not in HomePage
+[[32mINFO [m] 2022-06-16 00:27:47,717 BaseClass.user_is_on_the_browser() - User is on the Browser
+[[32mINFO [m] 2022-06-16 00:27:47,719 BaseClass.user_opens_the_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,719 BaseClass.user_should_see_a_link_with_horizontal_lines_on_the_top_right_corner_of_the_home_page() - List of screen Icon is present
+[[32mINFO [m] 2022-06-16 00:27:47,734 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,734 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,734 BaseClass.user_should_see_a_menu_with_list_of_clickable_links_is_displayed() - Menu with clickable link is is present 
+[[32mINFO [m] 2022-06-16 00:27:47,752 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,752 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,754 BaseClass.user_should_see_name_on_the_list_of_screens_as() - Name of the List Screens is present
+[[32mINFO [m] 2022-06-16 00:27:47,777 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,779 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,782 BaseClass.user_should_see_the_links_to_dietician_pages_under_the_sub_menu_with_text() - User should see the links to Dietician pages under the sub menu
+[[32mINFO [m] 2022-06-16 00:27:47,805 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,807 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,808 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:47,834 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:47,841 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:47,842 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:47,859 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:47,860 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
+[[32mINFO [m] 2022-06-16 00:27:47,860 BaseClass.user_is_re_directed_to_view_recent_diets_page() - User is re-directed to View Recent Diets page
+[[32mINFO [m] 2022-06-16 00:27:47,878 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,878 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,879 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:47,895 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:47,895 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:47,895 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:47,910 BaseClass.user_is_on_view_recent_diets_page_after_signning_in() - User is on View Recent Diets page after signning in
+[[32mINFO [m] 2022-06-16 00:27:47,910 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
+[[32mINFO [m] 2022-06-16 00:27:47,911 BaseClass.user_is_re_directed_to_view_recent_test_reports_page() - User is re-directed to View Recent Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:47,927 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,928 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,928 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:47,943 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:47,944 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:47,944 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:47,959 BaseClass.user_is_on_view_recent_test_reports_page_after_signning_in() - Dietician pages of screens are visible
+[[32mINFO [m] 2022-06-16 00:27:47,968 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
+[[32mINFO [m] 2022-06-16 00:27:47,970 BaseClass.user_is_re_directed_to_add_new_patient_page() - User is re-directed to Add New Patient page
+[[32mINFO [m] 2022-06-16 00:27:47,995 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,996 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:47,996 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,030 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:48,038 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:48,039 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:48,069 BaseClass.user_is_on_add_new_patient_page_after_signning_in() - User is on Add New Patient page after signning in
+[[32mINFO [m] 2022-06-16 00:27:48,070 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
+[[32mINFO [m] 2022-06-16 00:27:48,070 BaseClass.user_is_re_directed_to_dietician_home_page() - User is on Add New Patient page after signning in
+[[32mINFO [m] 2022-06-16 00:27:48,090 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,090 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,090 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,107 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:48,108 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:48,108 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:48,126 BaseClass.user_is_on_dietician_home_page_after_signning_in() - User is on Dietician Home page after signning in
+[[32mINFO [m] 2022-06-16 00:27:48,127 BaseClass.user_selects_the_link_from_the_screens_menu_after_signing_in() - User selects the link from the Screens menu after signing in
+[[32mINFO [m] 2022-06-16 00:27:48,127 BaseClass.user_is_re_directed_to_my_patients_page() - User is re-directed to My Patients page
+[[32mINFO [m] 2022-06-16 00:27:48,146 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,147 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,147 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,165 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:48,166 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:48,166 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:48,181 BaseClass.user_is_on_my_patients_page_after_signning_in() - User is on My Patients page after signning in
+[[32mINFO [m] 2022-06-16 00:27:48,181 BaseClass.user_selects_the_link_from_the_screens_menu_before_signing_in() - User selects the link from the Screens menu before signing in
+[[32mINFO [m] 2022-06-16 00:27:48,181 BaseClass.user_is_re_directed_to_confirm_conditions_and_create_plan_page() - User is re-directed to Confirm Conditions and Create Plan page
+[[32mINFO [m] 2022-06-16 00:27:48,241 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,243 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,244 BaseClass.user_should_see_the_links_to_public_pages_under_the_sub_menu_with_text() - User should see the links to public pages under the sub menu
+[[32mINFO [m] 2022-06-16 00:27:48,262 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,262 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,263 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,280 BaseClass.user_is_on_home_page() - User is on Home page
+[[32mINFO [m] 2022-06-16 00:27:48,280 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,280 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:48,295 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,298 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,304 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,325 BaseClass.user_is_on_sign_in_page() - User is on Sign In page
+[[32mINFO [m] 2022-06-16 00:27:48,326 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,327 BaseClass.user_is_re_directed_to_register_page() - User is re-directed to Register page
+[[32mINFO [m] 2022-06-16 00:27:48,350 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,351 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,353 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,374 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:48,374 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,375 BaseClass.user_is_re_directed_to_team_page() - User is re-directed to Team page
+[[32mINFO [m] 2022-06-16 00:27:48,392 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,393 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,393 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,413 BaseClass.user_is_on_team_page() - User is on Team page
+[[32mINFO [m] 2022-06-16 00:27:48,414 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,414 BaseClass.user_is_re_directed_to_testimonials_page() - User is re-directed to Testimonials page
+[[32mINFO [m] 2022-06-16 00:27:48,432 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,433 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,433 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,450 BaseClass.user_is_on_testimonials_page() - User is on Testimonials page
+[[32mINFO [m] 2022-06-16 00:27:48,451 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,451 BaseClass.user_is_re_directed_to_forgot_password_page() - User is re-directed to Forgot Password page
+[[32mINFO [m] 2022-06-16 00:27:48,465 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,465 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,465 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,479 BaseClass.user_is_on_forgot_password_page() - User is on Forgot Password page
+[[32mINFO [m] 2022-06-16 00:27:48,479 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,480 BaseClass.user_is_re_directed_to_product_features_page() - User is re-directed to Product Features page
+[[32mINFO [m] 2022-06-16 00:27:48,494 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,495 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,495 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,509 BaseClass.user_is_on_product_feature_page() - User is on Product Feature page
+[[32mINFO [m] 2022-06-16 00:27:48,509 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,510 BaseClass.user_is_re_directed_to_contact_page() - User is re-directed to Contact page
+[[32mINFO [m] 2022-06-16 00:27:48,523 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,524 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,524 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,539 BaseClass.user_is_on_contact_page() - User is on Contact page
+[[32mINFO [m] 2022-06-16 00:27:48,539 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,539 BaseClass.user_is_re_directed_to_blogs_page() - User is re-directed to Blogs page
+[[32mINFO [m] 2022-06-16 00:27:48,559 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,560 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,560 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,575 BaseClass.user_is_on_blogs_page() - User is on Blogs page
+[[32mINFO [m] 2022-06-16 00:27:48,576 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,576 BaseClass.user_is_re_directed_to_featured_content_page() - User is re-directed to Featured Content page
+[[32mINFO [m] 2022-06-16 00:27:48,590 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,591 BaseClass.user_selects_the_link_with_horizontal_lines_on_top_right_corner() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:48,591 BaseClass.user_should_see_a_link_with_text_under_the_section_public() - User should see a link under the section Public
+[[32mINFO [m] 2022-06-16 00:27:48,605 BaseClass.user_is_on_featured_content_page() - User is on Featured Content page
+[[32mINFO [m] 2022-06-16 00:27:48,605 BaseClass.user_selects_the_link_from_the_screens_menu() - User selects the link from the Screens menu
+[[32mINFO [m] 2022-06-16 00:27:48,605 BaseClass.user_is_re_directed_to_home_page() - User is re-directed to Home page
+[[32mINFO [m] 2022-06-16 00:27:48,625 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
+[[32mINFO [m] 2022-06-16 00:27:48,625 BaseClass.homepagevalidation() - User is not on Home Page after login
+[[32mINFO [m] 2022-06-16 00:27:48,626 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
+[[32mINFO [m] 2022-06-16 00:27:48,626 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
+[[32mINFO [m] 2022-06-16 00:27:48,626 BaseClass.page_displays_breadcrumbs_as_dietician_softaware_my_patients() - Verify secondary navigation path
+[[32mINFO [m] 2022-06-16 00:27:48,626 BaseClass.breadcrumbvalidation() - The secndary navigation path Dietician Softaware/My Patients is diaplayed
+[[32mINFO [m] 2022-06-16 00:27:48,641 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
+[[32mINFO [m] 2022-06-16 00:27:48,641 BaseClass.homepagevalidation() - User is not on Home Page after login
+[[32mINFO [m] 2022-06-16 00:27:48,641 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
+[[32mINFO [m] 2022-06-16 00:27:48,641 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
+[[32mINFO [m] 2022-06-16 00:27:48,642 BaseClass.page_title_is_displayed_as() - Verify Mypatients title
+[[32mINFO [m] 2022-06-16 00:27:48,642 BaseClass.verifyMyPageTitle() - My Patients title is not displayed
+[[32mINFO [m] 2022-06-16 00:27:48,663 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
+[[32mINFO [m] 2022-06-16 00:27:48,668 BaseClass.homepagevalidation() - User is not on Home Page after login
+[[32mINFO [m] 2022-06-16 00:27:48,669 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
+[[32mINFO [m] 2022-06-16 00:27:48,669 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
+[[32mINFO [m] 2022-06-16 00:27:48,669 BaseClass.search_button_is_disaplyed_as() - Veriying Search Button & Text
+[[32mINFO [m] 2022-06-16 00:27:48,669 BaseClass.verifysearchfeature() - Search feature is not displayed
+[[32mINFO [m] 2022-06-16 00:27:48,692 BaseClass.user_is_on_home_page_after_login() - User is on Home Page
+[[32mINFO [m] 2022-06-16 00:27:48,692 BaseClass.homepagevalidation() - User is not on Home Page after login
+[[32mINFO [m] 2022-06-16 00:27:48,694 BaseClass.user_clicks_on_my_patients_tab() - Verify and click My Patients Link
+[[32mINFO [m] 2022-06-16 00:27:48,694 BaseClass.user_clicks_on_my_patients_tab() - User clicked MyPatients Link
+[[32mINFO [m] 2022-06-16 00:27:48,696 BaseClass.name_email_and_phone_number_filters_are_displayed() - Verifying textboxes in My Patients page
+[[32mINFO [m] 2022-06-16 00:27:48,696 BaseClass.textboxesvalidation() - Name, email and phone number filters are displayed
+[[32mINFO [m] 2022-06-16 00:27:48,714 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,716 BaseClass.user_clicks_on_view_pdf_button() - User clicks on the View PDF button
+[[32mINFO [m] 2022-06-16 00:27:48,716 BaseClass.pdf_is_opened_in_proper_readable_format() - PDF is opened in readable format
+[[32mINFO [m] 2022-06-16 00:27:48,731 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
+[[32mINFO [m] 2022-06-16 00:27:48,732 BaseClass.user_is_on_pdf_file() - User is on PDF file
+[[32mINFO [m] 2022-06-16 00:27:48,732 BaseClass.patientdetails() - PDF displays patients details like  patient ID, name, email, address, phone number
+[[32mINFO [m] 2022-06-16 00:27:48,748 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
+[[32mINFO [m] 2022-06-16 00:27:48,748 BaseClass.user_is_on_pdf_file() - User is on PDF file
+[[32mINFO [m] 2022-06-16 00:27:48,749 BaseClass.doctordetails() - PDF displays doctor details like doc ID, doctor name, email address, clinic/facility name, doctor's specialization
+[[32mINFO [m] 2022-06-16 00:27:48,765 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
+[[32mINFO [m] 2022-06-16 00:27:48,766 BaseClass.user_is_on_pdf_file() - User is on PDF file
+[[32mINFO [m] 2022-06-16 00:27:48,766 BaseClass.healthdetails() - PDF displays health details like  list of conditions, preferences list, Co-morbidites
+[[32mINFO [m] 2022-06-16 00:27:48,789 BaseClass.user_has_clicked_view_pdf_button() - User clicks on the View PDF button
+[[32mINFO [m] 2022-06-16 00:27:48,790 BaseClass.user_is_on_pdf_file() - User is on PDF file
+[[32mINFO [m] 2022-06-16 00:27:48,790 BaseClass.dietdetails() - PDF displays diet menu for 7 days, any warning and comments mentioned by doctor
+[[32mINFO [m] 2022-06-16 00:27:48,817 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,818 BaseClass.patients_record_is_displayed() - Patient record verfication
+[[32mINFO [m] 2022-06-16 00:27:48,818 BaseClass.verifypatientrecord() - Records of all users get displayed
+[[32mINFO [m] 2022-06-16 00:27:48,819 BaseClass.each_patient_is_be_displayed() - Customer ID verfication
+[[32mINFO [m] 2022-06-16 00:27:48,819 BaseClass.verifycustomerid() - Customer id is not displayed under CustID column
+[[32mINFO [m] 2022-06-16 00:27:48,841 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,841 BaseClass.patients_record_is_displayed() - Patient record verfication
+[[32mINFO [m] 2022-06-16 00:27:48,841 BaseClass.verifypatientrecord() - Records of all users get displayed
+[[32mINFO [m] 2022-06-16 00:27:48,841 BaseClass.each_patient_is_dispalyed() - Patient name verfication
+[[32mINFO [m] 2022-06-16 00:27:48,841 BaseClass.verifypatientname() - Patient name is not displayed under Name column
+[[32mINFO [m] 2022-06-16 00:27:48,857 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,858 BaseClass.patients_record_is_displayed() - Patient record verfication
+[[32mINFO [m] 2022-06-16 00:27:48,858 BaseClass.verifypatientrecord() - Records of all users get displayed
+[[32mINFO [m] 2022-06-16 00:27:48,863 BaseClass.each_patient_and_is_dispalyed() - Patient details verfication
+[[32mINFO [m] 2022-06-16 00:27:48,881 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,881 BaseClass.user_clicks_on_view_previous_test_reports_button() - User clicks View Previous Test Reports page button
+[[32mINFO [m] 2022-06-16 00:27:48,882 BaseClass.verifyviewreporttitle() - User is not redirected to View Previuos Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,897 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,898 BaseClass.user_clicks_on_view_previous_diet_plans_button() - User clicks View Previous Diet Plans page button
+[[32mINFO [m] 2022-06-16 00:27:48,898 BaseClass.verifyviewplantitle() - User is not redirected to Generated Diet Plans page
+[[32mINFO [m] 2022-06-16 00:27:48,913 BaseClass.user_has_hit_search_button() - User has hot search button without entering any detail in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:48,913 BaseClass.user_clicks_on_create_new_report_or_plan_button() - User clicks Create New Report/Plan page button
+[[32mINFO [m] 2022-06-16 00:27:48,913 BaseClass.verifygeneratereport() - User is not redirected to Confirm Health Conditions and Generate a New Diet plan page
+[[32mINFO [m] 2022-06-16 00:27:48,931 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:48,932 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,932 BaseClass.breadcrumbsvalidation() - The secndary navigation path Dietician Softaware/View Previous Test Reports is displayed
+[[32mINFO [m] 2022-06-16 00:27:48,946 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:48,946 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,947 BaseClass.verifypagetitle() - View Previuos Test Reports page title is not displayed
+[[32mINFO [m] 2022-06-16 00:27:48,962 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:48,962 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,962 BaseClass.primaryinfovalidation() - Page displays primary information like patient Id  number, name, email address, Phone number, Address
+[[32mINFO [m] 2022-06-16 00:27:48,979 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:48,979 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,980 BaseClass.tableheadervalidation() - Table header displays column heading as Record number, Doc-ID, File Uploaded time, File/Report name, Identified health conditions
+[[32mINFO [m] 2022-06-16 00:27:48,995 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:48,995 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:48,996 BaseClass.tablecontentsvalidation() - Table contents displays document number, View PDF,  Uploaded time, File name, Health conditions of each patient
+[[32mINFO [m] 2022-06-16 00:27:49,021 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:49,023 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:49,024 BaseClass.signoutbtnverification() - Signout button is not dispalyed in the page
+[[32mINFO [m] 2022-06-16 00:27:49,039 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:49,039 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:49,039 BaseClass.only_three_records_displayed_in_one_page() - Three records per page is displayed when pagination number is clicked
+[[32mINFO [m] 2022-06-16 00:27:49,055 BaseClass.user_clicks_on_button_view_previous_test_reports() - User clicks on button View Previous Test Reports
+[[32mINFO [m] 2022-06-16 00:27:49,055 BaseClass.user_is_on_view_patient_test_reports_page() - User is on View Patients Test Reports page
+[[32mINFO [m] 2022-06-16 00:27:49,055 BaseClass.number_of_pages_containing_each_three_records_is_displayed() - Total number of pages in pagination is dispalyed
+[[32mINFO [m] 2022-06-16 00:27:49,112 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,113 BaseClass.user_clicks_search_button_without_entering_details() - User Clicks search Button
+[[32mINFO [m] 2022-06-16 00:27:49,113 BaseClass.records_of_all_users_are_displayed() - Verifying all the user records
+[[32mINFO [m] 2022-06-16 00:27:49,113 BaseClass.usersdataverfication() - All user records are displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,128 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,129 BaseClass.user_enters_valid_in_name_filter_box() - User enters valid name in name filter and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,129 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,129 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,144 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,145 BaseClass.user_enters_valid_in_email_filter_box() - User enters valid email address in email filter and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,145 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,145 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,158 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,159 BaseClass.user_enters_valid_in_phone_number_filter_box() - User enters valid phone number in phone filter and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,159 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,159 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,174 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,178 BaseClass.user_enters_valid_with_valid_in_name_and_phone_number_filter_boxes() - User enters valid name and phone number in name and phone number filter boxes and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,179 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,179 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,196 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,197 BaseClass.user_enters_valid_with_valid_in_name_and_email_filter_boxes() - User enters valid name and email address in name and email filter boxes and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,197 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,198 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,217 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,217 BaseClass.user_enters_valid_with_valid_in_email_and_phone_number_filter_boxes() - User enters valid email address and phone number in email and phone filter boxes and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,218 BaseClass.records_of_requested_user_is_displayed() - Verifying user record
+[[32mINFO [m] 2022-06-16 00:27:49,218 BaseClass.userrecordverification() - Requested user record is displayed in My patients page
+[[32mINFO [m] 2022-06-16 00:27:49,233 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,296 BaseClass.user_enters_invalid_phone_number_from_and_in_phone_number_filter_box() - User enter invalid phone number and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,298 BaseClass.error_message_is_displayed() - Error message validation
+[[32mINFO [m] 2022-06-16 00:27:49,298 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,317 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,340 BaseClass.user_enters_invalid_email_address_from_and_in_email_filter_box() - User enter invalid email address and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,340 BaseClass.error_message_is_displayed() - Error message validation
+[[32mINFO [m] 2022-06-16 00:27:49,340 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,365 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,430 BaseClass.user_enters_invalid_name_from_and_in_name_filter_box() - User enter invalid email address and clicks search
+[[32mINFO [m] 2022-06-16 00:27:49,431 BaseClass.error_message_is_displayed() - Error message validation
+[[32mINFO [m] 2022-06-16 00:27:49,431 BaseClass.verifyErrorMessage() - Invalid input is not entered in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,448 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,449 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,450 BaseClass.table_header_should_display_number_of_items_found() - Table header diaplays 5 items found, displaying 1 to 5
+[[32mINFO [m] 2022-06-16 00:27:49,474 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,474 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,475 BaseClass.columntableverification() - Patient data table dispalys columns name Record Number, Cust ID, Name, Details, Last Visit and Actions
+[[32mINFO [m] 2022-06-16 00:27:49,493 BaseClass.user_is_on_my_patients_page() - User is on My Patients page
+[[32mINFO [m] 2022-06-16 00:27:49,494 BaseClass.user_clicks_search_button_with_or_without_entering_details() - User clicks search button with/without deails in filter boxes
+[[32mINFO [m] 2022-06-16 00:27:49,494 BaseClass.actioncolumnbuttonvalidation() - Action column displays View Previous Test Report, View Previous Diet Plans, Create New Report or Plan buttons
+[[32mINFO [m] 2022-06-16 00:27:49,522 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,522 BaseClass.user_clicks_link() - User clicks on Log in here Link
+[[32mINFO [m] 2022-06-16 00:27:49,522 BaseClass.user_is_re_directed_to_sign_in_page() - User redirected to Sign In page
+[[32mINFO [m] 2022-06-16 00:27:49,543 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:49,544 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,545 BaseClass.user_should_see_all_mandatory_flields_for_register_page_with_star_symbol_on_top_of_those_fields() - Verify Mandatory fields
+[[32mINFO [m] 2022-06-16 00:27:49,545 BaseClass.testMandatoryFieldValidation() - Mandatory fields are username, password textboxes
+[[32mINFO [m] 2022-06-16 00:27:49,573 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:49,576 BaseClass.user_lands_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,577 BaseClass.user_should_see_a_form_with_heading_to_sign_up_using_mobile_number() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:49,592 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:49,592 BaseClass.user_lands_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,593 BaseClass.user_should_see_a_button_with_text_in_the_sign_up_form() - Verify SIGN UP button
+[[32mINFO [m] 2022-06-16 00:27:49,607 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,607 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_all_fields_empty() - User click SIGN UP btn with all fields empty
+[[32mINFO [m] 2022-06-16 00:27:49,608 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,608 BaseClass.user_should_see_a_message() - Mandatory fields cannot be empty
+[[32mINFO [m] 2022-06-16 00:27:49,624 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,625 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_first_name_valid_values_for_the_remaining_fields() - Invalid data entered for First Name
+[[32mINFO [m] 2022-06-16 00:27:49,625 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,625 BaseClass.user_should_see_a_message() - Invalid data entered for First Name
+[[32mINFO [m] 2022-06-16 00:27:49,640 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,642 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_last_name_valid_values_for_the_remaining_fields() - Invalid data entered for Last Name
+[[32mINFO [m] 2022-06-16 00:27:49,642 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,642 BaseClass.user_should_see_a_message() - Invalid data entered for Last Name
+[[32mINFO [m] 2022-06-16 00:27:49,657 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,657 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_aphanumeric_text_for_mobile_number_valid_values_for_the_remaining_fields() - Invalid data entered for Mobile Number
+[[32mINFO [m] 2022-06-16 00:27:49,658 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,658 BaseClass.user_should_see_a_message() - Invalid data entered for Mobile Number
+[[32mINFO [m] 2022-06-16 00:27:49,673 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,673 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_numeric_text_for_any_other_field_valid_values_for_the_remaining_fields() - Invalid data entered for Any other field
+[[32mINFO [m] 2022-06-16 00:27:49,674 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,674 BaseClass.user_should_see_a_message() - Invalid data entered for Any other field
+[[32mINFO [m] 2022-06-16 00:27:49,698 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,699 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_invalid_email_id_for_email_valid_values_for_the_remaining_fields() - Invalid data entered for Email
+[[32mINFO [m] 2022-06-16 00:27:49,700 BaseClass.user_should_see_a_message_invalid_data_entered_for_email() - Invalid data entered for Email
+[[32mINFO [m] 2022-06-16 00:27:49,729 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,732 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_invalid_password_valid_values_for_the_remaining_fields() - Invalid data entered for Password
+[[32mINFO [m] 2022-06-16 00:27:49,733 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,733 BaseClass.user_should_see_a_message() - Invalid data entered for Password
+[[32mINFO [m] 2022-06-16 00:27:49,749 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,750 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_by_entering_valid_values_for_the_all_fields() - User clicks sign in page
+[[32mINFO [m] 2022-06-16 00:27:49,750 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to SignIn page
+[[32mINFO [m] 2022-06-16 00:27:49,775 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:49,782 BaseClass.user_lands_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,787 BaseClass.user_should_see_a_form_with_heading_to_sign_up_using_email_id() - Verify Sign up with your email header
+[[32mINFO [m] 2022-06-16 00:27:49,808 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:49,808 BaseClass.user_lands_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,808 BaseClass.user_should_see_a_button_with_text_in_the_sign_up_with_your_email_form() - Verify Sign Up button
+[[32mINFO [m] 2022-06-16 00:27:49,823 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,824 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_with_all_fields_empty() - Mandatory fields cannot be empty
+[[32mINFO [m] 2022-06-16 00:27:49,826 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,826 BaseClass.user_should_see_a_message() - Mandatory fields cannot be empty
+[[32mINFO [m] 2022-06-16 00:27:49,842 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,842 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_by_entering_numeric_text_for_first_name_valid_values_for_the_remaining_fields() - Invalid data entered for First Name
+[[32mINFO [m] 2022-06-16 00:27:49,843 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,843 BaseClass.user_should_see_a_message() - Invalid data entered for First Name
+[[32mINFO [m] 2022-06-16 00:27:49,858 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,859 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_numeric_text_for_last_name_valid_values_for_the_remaining_fields() - Invalid data entered for Last Name
+[[32mINFO [m] 2022-06-16 00:27:49,859 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,859 BaseClass.user_should_see_a_message() - Invalid data entered for Last Name
+[[32mINFO [m] 2022-06-16 00:27:49,876 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,878 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_numeric_text_for_username_valid_values_for_the_remaining_fields() - Invalid data entered for Username
+[[32mINFO [m] 2022-06-16 00:27:49,878 BaseClass.user_should_see_a_message() - Invalid data entered for Email Address
+[[32mINFO [m] 2022-06-16 00:27:49,898 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,899 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_invalid_email_id_for_email_address_valid_values_for_the_remaining_fields() - Invalid data entered for Email Address
+[[32mINFO [m] 2022-06-16 00:27:49,899 BaseClass.user_should_see_a_message_invalid_data_entered_for_email_address() - Invalid data entered for Email Address
+[[32mINFO [m] 2022-06-16 00:27:49,913 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,914 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_invalid_password_valid_values_for_the_remaining_fields() - Invaild Password
+[[32mINFO [m] 2022-06-16 00:27:49,918 BaseClass.user_should_see_a_message() - File uploaded succesfully
+[[32mINFO [m] 2022-06-16 00:27:49,920 BaseClass.user_should_see_a_message() - Invalid Password
+[[32mINFO [m] 2022-06-16 00:27:49,937 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,937 BaseClass.user_clicks_sign_up_button_in_the_sign_up_form_with_your_email_by_entering_a_value_that_is_different_than_the_password_field_value_valid_values_for_the_remaining_fields() - Confirm Password should same as Password
+[[32mINFO [m] 2022-06-16 00:27:49,937 BaseClass.user_should_see_a_message() - Invalid data entered for Email Address
+[[32mINFO [m] 2022-06-16 00:27:49,953 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,953 BaseClass.user_clicks_sign_up_button_in_the_sign_up_with_your_email_form_by_entering_valid_values_for_the_all_fields() - User is redirected to SignIn page
+[[32mINFO [m] 2022-06-16 00:27:49,953 BaseClass.user_is_re_directed_to_sign_in_page() - User is re-directed to SignIn page
+[[32mINFO [m] 2022-06-16 00:27:49,970 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,971 BaseClass.user_clicks_facebook_button_in_the_sign_up_with_your_email_form() - User clicks on Facebook Button
+[[32mINFO [m] 2022-06-16 00:27:49,971 BaseClass.user_successfully_login_with_facebook_account() - User redirected to facebook login page
+[[32mINFO [m] 2022-06-16 00:27:49,985 BaseClass.user_is_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:49,986 BaseClass.user_clicks_google_button_in_the_sign_up_with_your_email_form() - User clicks on Google Button
+[[32mINFO [m] 2022-06-16 00:27:49,986 BaseClass.user_successfully_login_with_google_account() - User redirected to Google login page
+[[32mINFO [m] 2022-06-16 00:27:50,000 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,001 BaseClass.user_lands_on_register_page() - User is on Register page
+[[32mINFO [m] 2022-06-16 00:27:50,001 BaseClass.user_should_see_the_title_of_the_page_as() - User is not in HomePage
+[[32mINFO [m] 2022-06-16 00:27:50,022 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,023 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,023 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,024 BaseClass.user_should_see_all_mandatory_flields_with_star_symbol_on_top_of_those_fields() - Verify Mandatory fields
+[[32mINFO [m] 2022-06-16 00:27:50,024 BaseClass.testMandatoryFieldValidation() - Mandatory fields are username, password textboxes
+[[32mINFO [m] 2022-06-16 00:27:50,040 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,040 BaseClass.user_click_on_icon_symbol_on_sign_in_page() - Verify and click Signin icon
+[[32mINFO [m] 2022-06-16 00:27:50,040 BaseClass.user_click_on_icon_symbol_on_sign_in_page() - User clicked SignIn icon
+[[32mINFO [m] 2022-06-16 00:27:50,041 BaseClass.user_should_see_the_title_of_the_page_as() - Verify signin page title
+[[32mINFO [m] 2022-06-16 00:27:50,041 BaseClass.verifyPageTitle() - User Signin successfully
+[[32mINFO [m] 2022-06-16 00:27:50,058 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,059 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
+[[32mINFO [m] 2022-06-16 00:27:50,059 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
+[[32mINFO [m] 2022-06-16 00:27:50,059 BaseClass.user_redirected_to_form_with_heading() - Verify Login with email page header
+[[32mINFO [m] 2022-06-16 00:27:50,059 BaseClass.verifyPageHeader() - Verified 'Login with email' page header
+[[32mINFO [m] 2022-06-16 00:27:50,080 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,080 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
+[[32mINFO [m] 2022-06-16 00:27:50,081 BaseClass.user_should_see_a_button_with_text_in_the_sign_in_form() - Verify Login button
+[[32mINFO [m] 2022-06-16 00:27:50,098 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,098 BaseClass.user_clicks_log_in_button_with_all_fields_empty() - User click login btn with all fields empty
+[[32mINFO [m] 2022-06-16 00:27:50,099 BaseClass.user_gets_error_message() - User should get error message
+[[32mINFO [m] 2022-06-16 00:27:50,099 BaseClass.invalidLogin() - Invalid login credentials
+[[32mINFO [m] 2022-06-16 00:27:50,115 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,115 BaseClass.user_clicks_log_in_button_with_invalid_email_and_valid_password() - User clicks login with invalid email and valid password
+[[32mINFO [m] 2022-06-16 00:27:50,116 BaseClass.user_should_see_message() - Please fill with valid email id
+[[32mINFO [m] 2022-06-16 00:27:50,135 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,136 BaseClass.user_clicks_log_in_button_with_valid_email_and_invalid_password() - User clicks login with valid email and invalid password
+[[32mINFO [m] 2022-06-16 00:27:50,136 BaseClass.user_gets_a_message() - Invalid Password.Pleasetry again
+[[32mINFO [m] 2022-06-16 00:27:50,153 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,154 BaseClass.user_clicks_log_in_button_with_valid_email_and_empty_password() - User clicks login btn with valid email and empty password
+[[32mINFO [m] 2022-06-16 00:27:50,154 BaseClass.user_gets_a_message() - Please fill the password
+[[32mINFO [m] 2022-06-16 00:27:50,169 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,170 BaseClass.user_clicks_log_in_with_both_invalid_email_and_password() - User clicks login with valid email and invalid password
+[[32mINFO [m] 2022-06-16 00:27:50,170 BaseClass.user_gets_a_message() - Invalid Login credentials
+[[32mINFO [m] 2022-06-16 00:27:50,184 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,184 BaseClass.user_clicks_log_in_with_both_valid_email_and_password() - User clicks login with valid email and invalid password
+[[32mINFO [m] 2022-06-16 00:27:50,184 BaseClass.user_gets_a_message() - logged in successfully
+[[32mINFO [m] 2022-06-16 00:27:50,198 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,198 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,198 BaseClass.user_clicks_on_forgot_password_link() - User click forgot password field
+[[32mINFO [m] 2022-06-16 00:27:50,199 BaseClass.user_should_be_directed_to_page() - User redirect to Reset password page
+[[32mINFO [m] 2022-06-16 00:27:50,218 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,218 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,219 BaseClass.user_clicks_button_to_log_in() - User clicks Facebook button to log in
+[[32mINFO [m] 2022-06-16 00:27:50,219 BaseClass.user_is_redirected_to_facebook_login_page() - User redirected to facebook login page
+[[32mINFO [m] 2022-06-16 00:27:50,235 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,236 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,236 BaseClass.user_clicks_button_to_log_in() - User clicks Google button to log in
+[[32mINFO [m] 2022-06-16 00:27:50,236 BaseClass.user_is_redirected_to_google_log_in_page() - User redirected to google login page
+[[32mINFO [m] 2022-06-16 00:27:50,251 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,251 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,251 BaseClass.user_clicks_sign_up_link() - User clicks sign up link
+[[32mINFO [m] 2022-06-16 00:27:50,251 BaseClass.user_is_redirected_to_register_page() - User redirected to Register page
+[[32mINFO [m] 2022-06-16 00:27:50,266 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,266 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
+[[32mINFO [m] 2022-06-16 00:27:50,267 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
+[[32mINFO [m] 2022-06-16 00:27:50,267 BaseClass.user_should_see_a_form_with_heading() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,291 BaseClass.user_is_on_dietician_website() - User is on dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,292 BaseClass.user_lands_on_sign_in_page() - Verify User Sign in page title
+[[32mINFO [m] 2022-06-16 00:27:50,292 BaseClass.verifyPageTitle() - Verified 'User Sign In' page title
+[[32mINFO [m] 2022-06-16 00:27:50,292 BaseClass.user_should_see_a_button_with_text() - Verify signin button
+[[32mINFO [m] 2022-06-16 00:27:50,309 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,309 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,310 BaseClass.user_clicks_sign_in_button_in_the_sign_in_form_with_all_fields_empty() - User click signin btn with all fields empty
+[[32mINFO [m] 2022-06-16 00:27:50,311 BaseClass.user_should_get_error_message() - User should get error message
+[[32mINFO [m] 2022-06-16 00:27:50,311 BaseClass.invalidLogin() - Invalid login credentials
+[[32mINFO [m] 2022-06-16 00:27:50,327 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,327 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,327 BaseClass.user_clicks_sign_in_button_entering_numeric_values_for_username_and_valid_values_for_password() - User enter numeric values for username and valid password
+[[32mINFO [m] 2022-06-16 00:27:50,327 BaseClass.user_should_get_a_message_invalid_entry_for_first_field() - Invalid entry for username field
+[[32mINFO [m] 2022-06-16 00:27:50,328 BaseClass.loginFaied() - Username and Password is invalid
+[[32mINFO [m] 2022-06-16 00:27:50,353 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,354 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,354 BaseClass.user_clicks_sign_in_button_entering_extra_length_of_password() - password length exist the limit
+[[32mINFO [m] 2022-06-16 00:27:50,355 BaseClass.user_should_get_a_message_invalid_entry_for_password_field() - Invalid entry for username field
+[[32mINFO [m] 2022-06-16 00:27:50,355 BaseClass.loginFaied() - Username and Password is invalid
+[[32mINFO [m] 2022-06-16 00:27:50,372 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,372 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,372 BaseClass.user_clicks_sign_in_button_entering_invalid_values_for_both_fields_and() - Invalid username and password
+[[32mINFO [m] 2022-06-16 00:27:50,373 BaseClass.user_should_get_error_message() - User should get error message
+[[32mINFO [m] 2022-06-16 00:27:50,373 BaseClass.invalidLogin() - Invalid login credentials
+[[32mINFO [m] 2022-06-16 00:27:50,392 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,392 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,393 BaseClass.user_clicks_on_forgot_password_link() - User click forgot password field
+[[32mINFO [m] 2022-06-16 00:27:50,393 BaseClass.user_should_be_directed_to_page() - User redirect to Reset password page
+[[32mINFO [m] 2022-06-16 00:27:50,408 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,408 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,409 BaseClass.user_clicks_on_not_member_yet_button() - User launch not a member page
+[[32mINFO [m] 2022-06-16 00:27:50,409 BaseClass.user_will_land_on_register_page() - User launch on register page
+[[32mINFO [m] 2022-06-16 00:27:50,426 BaseClass.user_is_on_sign_in_page() - Verify signin page header
+[[32mINFO [m] 2022-06-16 00:27:50,426 BaseClass.verifyPageHeader() - Verified 'Sign In' page heaer
+[[32mINFO [m] 2022-06-16 00:27:50,426 BaseClass.user_clicks_sign_in_with_all_field_entered_and() - User entered valid username and password
+[[32mINFO [m] 2022-06-16 00:27:50,426 BaseClass.user_logged_in_successfully() - User logged in succesffully
+[[32mINFO [m] 2022-06-16 00:27:50,426 BaseClass.loginSuccess() - User logged in succesffully
+[[32mINFO [m] 2022-06-16 00:27:50,444 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,445 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-16 00:27:50,445 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:50,445 BaseClass.user_should_see_the_heading_on_the_page() - Verify page heading
+[[32mINFO [m] 2022-06-16 00:27:50,445 BaseClass.verifyPageheading() - Validating heading failed
+[[32mINFO [m] 2022-06-16 00:27:50,461 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,461 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-16 00:27:50,461 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:50,461 BaseClass.user_should_see_that_diet_plans_tab_on_the_menu_bar_is_selected() - Diet Plans tab on the menu bar is visible
+[[32mINFO [m] 2022-06-16 00:27:50,477 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,478 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-16 00:27:50,478 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:50,479 BaseClass.view_pdf_option_is_available_for_the_generated_diet_plans() - View PDF is visible
+[[32mINFO [m] 2022-06-16 00:27:50,494 BaseClass.user_is_logged_on_to_dietician_website() - User is logged on to Dietician website
+[[32mINFO [m] 2022-06-16 00:27:50,494 BaseClass.user_lands_on_diet_page() - User on View Recent Diets Title check
+[[32mINFO [m] 2022-06-16 00:27:50,494 BaseClass.verifyPageTitle() - Validating page Title not successfully
+[[32mINFO [m] 2022-06-16 00:27:50,494 BaseClass.view_record_number_plan_id_customer_details_plangenerated_time_comments_available_for_the_generated_diet_plans() - Record Number, Plan ID, Customer Details, Plan Generated time, Comments fields visible
