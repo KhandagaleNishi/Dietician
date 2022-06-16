@@ -17,15 +17,15 @@ ReadConfig config=new ReadConfig();
 	String baseurl=config.getApplicationURL();
 	RegisterPage register = new RegisterPage(driver);
 	
-	@Given("User is on Dietician website {string}")
-	public void user_is_on_dietician_website(String url) {
-			//check base application url and given url
-				logger.info("User is on dietician website");
-				if (baseurl.equals(url))
-					assertEquals(url, baseurl);
-				else 
-					assertTrue(true); 
-	}
+//	@Given("User is on Dietician website {string}")
+//	public void user_is_on_dietician_website(String url) {
+//			//check base application url and given url
+//				logger.info("User is on dietician website");
+//				if (baseurl.equals(url))
+//					assertEquals(url, baseurl);
+//				else 
+//					assertTrue(true); 
+//	}
 
 	@When("User lands on Register page")
 	public void user_lands_on_register_page() {
