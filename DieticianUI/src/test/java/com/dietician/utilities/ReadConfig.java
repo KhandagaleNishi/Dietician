@@ -32,4 +32,16 @@ Properties prop;
 
 	public static final String EXCEL ="./DataFiles/Hackathon.xlsx";
 	
+	
+	//Read data from config file
+	
+		
+
+		public String getDieticianHomeUrl() {
+			return prop.getProperty("dieticianurl");
+		}
+
+		public String getAddNewPatientUrl() {
+			return prop.getProperty("addnewpatienturl");
+		}
 }
